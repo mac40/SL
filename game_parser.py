@@ -5,9 +5,6 @@ analyzed with R
 
 import pandas as pd
 
-def teams_to_list(games):
-    """The first action 
-    """
 
 def duplicates_handler(games):
     """In order to avoid unwanted interpreations of data we wish to remove
@@ -18,6 +15,15 @@ def duplicates_handler(games):
     return games.drop_duplicates(subset="timestamp")
 
 
+def teams_to_list(games):
+    """ In order to work more easily with teamcomps we will change their
+    field from a csv style into a python list
+    :param games: the list of games
+    """
+    games["team_1"] = games["team_1"].apply(lambda x: x.split(","))
+    games["team_2"] = games["team_2"].apply(lambda x: x.split(","))
+    return games
+
 if __name__ == "__main__":
     # import games from games.csv
     games = pd.read_csv('lolgames/games.csv')
@@ -25,4 +31,7 @@ if __name__ == "__main__":
     # clear games from duplicates
     games = duplicates_handler(games)
 
-    # games["team_1"] = games["team_1"].apply(lambda x: x.split(","))
+    # reformat teams
+    games = teams_to_list(games)
+
+    print(games.head())
