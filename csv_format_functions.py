@@ -41,21 +41,9 @@ def change_date_format(games):
 
     :param games: the list of games
     """
-    # games["timestamp"] = games["timestamp"].apply(lambda x: x[:10])
+    games["timestamp"] = games["timestamp"].apply(lambda x: x[:10])
     games["timestamp"] = pd.to_datetime(games["timestamp"])
     return games
 
 if __name__ == "__main__":
-    # import games from games.csv
-    GAMES = pd.read_csv('lolgames/games.csv')
-
-    # clear games from duplicates
-    GAMES = duplicates_handler(GAMES)
-
-    # reformat teams
-    GAMES = teams_to_list(GAMES)
-
-    #reformat dates
-    GAMES = change_date_format(GAMES)
-
-    print(GAMES.head())
+    pass
