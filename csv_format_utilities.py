@@ -6,6 +6,23 @@ analyzed with R
 import pandas as pd
 
 
+def get_games(file_name):
+    """
+    get games from csv and return them in a pandas dataframe
+    :param file_name: name of the csv file containing the games
+    """
+    return pd.read_csv(file_name)
+
+
+def save_games(dataframe, file_name):
+    """
+    save games in a csv from a pandas df
+    :param dataframe: pandas dataframe containing games
+    :param file_name: destination file .csv
+    """
+    dataframe.to_csv(file_name, index=False)
+
+
 def duplicates_handler(games):
     """
     In order to avoid unwanted interpreations of data we wish to remove
@@ -44,6 +61,7 @@ def change_date_format(games):
     games["timestamp"] = games["timestamp"].apply(lambda x: x[:10])
     games["timestamp"] = pd.to_datetime(games["timestamp"])
     return games
+
 
 if __name__ == "__main__":
     pass
