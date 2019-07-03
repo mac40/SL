@@ -8,6 +8,24 @@ The project consist of three steps:
 * analyzing the gathered data
 * drawing conclusions from the analysis
 
+## ToDo
+
+* [x] Gather The Data
+  * [x] Clean Duplicates
+  * [ ] Filter the dataframe
+  * [ ] Create interesting subsets
+* [ ] Explore the Data
+  * [ ] Team Composition
+  * [ ] Character frequency per role
+  * [ ] Character frequency per server (and role)
+  * [ ] Character winrate per server
+  * [ ] Character winrate
+  * [ ] Team-comp winrate
+  * [ ] Characters Correlation
+* [ ] Model the Data
+  * [ ] various predictors tbd from exploratory analysis
+* [ ] Interpret the results
+
 ## Credits
 
 * [MarcusDEFGH](https://github.com/mac40/loldraft) from which i took insipiration for the spider
