@@ -54,7 +54,6 @@ Challenger,Defeat,jp,2019-06-18,Malphite,Xin Zhao,Ahri,Twitch,Thresh,Aatrox,Zac,
 Challenger,Defeat,jp,2019-06-18,Camille,Rek'Sai,Vladimir,Xayah,Soraka,Shen,Nidalee,Ahri,Vayne,Blitzcrank
 Challenger,Defeat,jp,2019-06-14,Kennen,Nidalee,Taliyah,Caitlyn,Soraka,Urgot,Vi,Heimerdinger,Jhin,Karma
 Challenger,Defeat,eune,2019-06-18,Urgot,Gragas,Twisted Fate,Kai'Sa,Karma,Nasus,Rek'Sai,Katarina,Swain,Nautilus
-Grandmaster,Defeat,ru,2019-06-19,Riven,Warwick,Kassadin,Jinx,Yuumi,Garen,Shaco,Talon,Kai'Sa,Lulu
 Challenger,Defeat,jp,2019-06-16,Shen,Sejuani,Ekko,Xayah,Rakan,Tryndamere,Lee Sin,LeBlanc,Ezreal,Karthus
 Challenger,Victory,br,2019-06-17,Orianna,Jarvan IV,Yasuo,Kai'Sa,Alistar,Irelia,Sejuani,Darius,Sivir,Xerath
 Challenger,Victory,br,2019-06-17,Kled,Rek'Sai,Mordekaiser,Kai'Sa,Leona,Jax,Rengar,Kassadin,Sivir,Yuumi
@@ -62,7 +61,6 @@ Challenger,Defeat,euw,2019-06-09,Tahm Kench,Kha'Zix,Talon,Sivir,Xerath,Camille,E
 Challenger,Defeat,jp,2019-06-18,Tahm Kench,Kayn,Ahri,Kai'Sa,Soraka,Kled,Udyr,Karthus,Sivir,Alistar
 Challenger,Victory,jp,2019-06-14,Aatrox,Taliyah,Gangplank,Draven,Nautilus,Karma,Pantheon,Vladimir,Kai'Sa,Morgana
 Challenger,Defeat,eune,2019-06-18,Irelia,Kindred,Swain,Zoe,Blitzcrank,Jax,Rengar,Kassadin,Sivir,Thresh
-Grandmaster,Defeat,ru,2019-06-19,Tahm Kench,Jarvan IV,Malzahar,Caitlyn,Annie,Warwick,Fiddlesticks,Nocturne,Draven,Nami
 Challenger,Defeat,jp,2019-06-16,Akali,Kayn,Mordekaiser,Draven,Galio,Volibear,Elise,Orianna,Sivir,Braum
 Challenger,Defeat,br,2019-06-17,Illaoi,Lee Sin,Aurelion Sol,Ezreal,Fiddlesticks,Kayle,Twitch,Camille,Caitlyn,Karma
 Challenger,Defeat,br,2019-06-17,Neeko,Jarvan IV,Ryze,Sivir,Yuumi,Irelia,Rek'Sai,Zoe,Draven,Vel'Koz
@@ -71,7 +69,6 @@ Challenger,Victory,jp,2019-06-18,Fiora,Poppy,Karma,Kai'Sa,Orianna,Aatrox,Graves,
 Challenger,Defeat,jp,2019-06-18,Gangplank,Karthus,Zed,Xayah,Rakan,Riven,Hecarim,Irelia,Draven,Zyra
 Challenger,Victory,jp,2019-06-14,Akali,Taliyah,Aatrox,Sivir,Volibear,Lee Sin,Ezreal,Neeko,Vayne,Pyke
 Challenger,Victory,eune,2019-06-18,Yasuo,Zac,Sylas,Draven,Karma,Darius,Hecarim,Ahri,Swain,Miss Fortune
-Grandmaster,Defeat,ru,2019-06-19,Fiora,Xin Zhao,Malzahar,Ezreal,Zyra,Vladimir,Warwick,Ekko,Jhin,Lux
 Challenger,Defeat,jp,2019-06-16,Riven,Nidalee,Yasuo,Draven,Yuumi,Volibear,Master Yi,Zed,Ezreal,Rakan
 Challenger,Victory,br,2019-06-16,Tahm Kench,Lee Sin,Vladimir,Xayah,Lux,Olaf,Sejuani,Camille,Vayne,Lulu
 Challenger,Victory,br,2019-06-17,Aatrox,Rek'Sai,Karthus,Xayah,Lulu,Poppy,Kha'Zix,Zed,Taric,Sona
@@ -79,7 +76,6 @@ Challenger,Defeat,euw,2019-06-09,Illaoi,Camille,LeBlanc,Ezreal,Yuumi,Aatrox,Iver
 Challenger,Defeat,jp,2019-06-17,Kayle,Gragas,Renekton,Kai'Sa,Alistar,Olaf,Vi,Vladimir,Sivir,Nami
 Challenger,Defeat,jp,2019-06-13,Fiora,Mordekaiser,Vel'Koz,Vayne,Zyra,Aatrox,Taliyah,Vladimir,Kai'Sa,Alistar
 Challenger,Defeat,eune,2019-06-18,Riven,Rengar,Mordekaiser,Ezreal,Anivia,Jax,Sejuani,Pyke,Kai'Sa,Thresh
-Grandmaster,Defeat,ru,2019-06-19,Poppy,Jarvan IV,Twisted Fate,Caitlyn,Sona,Renekton,Warwick,Orianna,Lucian,Nami
 Challenger,Defeat,jp,2019-06-16,Riven,Jarvan IV,Ryze,Cho'Gath,Karma,Tryndamere,Sejuani,Aatrox,Ezreal,Lux
 Challenger,Victory,br,2019-06-16,Karma,Aatrox,Katarina,Lucian,Nautilus,Shen,Evelynn,Morgana,Sivir,Lux
 Challenger,Defeat,br,2019-06-17,Jax,Vi,Vladimir,Kai'Sa,Thresh,Mordekaiser,Aatrox,Pyke,Ezreal,Soraka
@@ -87,39 +83,33 @@ Challenger,Defeat,euw,2019-06-09,Jax,Kindred,Syndra,Yasuo,Gragas,Camille,Sejuani
 Challenger,Defeat,jp,2019-06-17,Darius,Sejuani,Viktor,Xayah,Nautilus,Fiora,Kha'Zix,Malzahar,Vayne,Thresh
 Challenger,Defeat,jp,2019-06-13,Tryndamere,Karthus,Tahm Kench,Kai'Sa,Karma,Pyke,Olaf,Akali,Ezreal,Morgana
 Challenger,Victory,eune,2019-06-18,Volibear,Graves,Ahri,Ezreal,Rakan,Riven,Kayn,Ryze,Jhin,Brand
-Grandmaster,Defeat,ru,2019-06-18,Cho'Gath,Kha'Zix,Akali,Caitlyn,Pyke,Sylas,Warwick,LeBlanc,Draven,Nautilus
 Challenger,Defeat,br,2019-06-16,Gangplank,Rek'Sai,Lux,Sivir,Yuumi,Darius,Olaf,Zilean,Draven,Alistar
 Challenger,Victory,br,2019-06-17,Riven,Rek'Sai,Irelia,Kai'Sa,Thresh,Gangplank,Kha'Zix,Zed,Xayah,Rakan
 Challenger,Defeat,euw,2019-06-09,Fiora,Elise,Katarina,Sivir,Vel'Koz,Ryze,Sejuani,Camille,Vayne,Brand
 Challenger,Defeat,jp,2019-06-17,Riven,Taliyah,Vladimir,Draven,Nautilus,Poppy,Graves,Twisted Fate,Xayah,Blitzcrank
 Challenger,Defeat,jp,2019-06-13,Neeko,Rek'Sai,Sylas,Kai'Sa,Lux,Tahm Kench,Gragas,Akali,Lucian,Taric
 Challenger,Defeat,eune,2019-06-18,Garen,Gragas,Kassadin,Vayne,Bard,Akali,Kayn,Zed,Kai'Sa,Brand
-Grandmaster,Defeat,ru,2019-06-18,Camille,Sejuani,Akali,Caitlyn,Pyke,Irelia,Warwick,Vladimir,Sona,Taric
 Challenger,Victory,br,2019-06-16,Sylas,Kayn,Ahri,Caitlyn,Karma,Renekton,Sejuani,Darius,Sivir,Yuumi
 Challenger,Defeat,br,2019-06-17,Pyke,Lee Sin,Ryze,Varus,Miss Fortune,Riven,Sejuani,Talon,Sivir,Soraka
 Challenger,Defeat,euw,2019-06-08,Nidalee,Kindred,Neeko,Sivir,Zilean,Illaoi,Nunu & Willump,Sylas,Yasuo,Lux
 Challenger,Defeat,jp,2019-06-17,Irelia,Vi,Neeko,Vayne,Olaf,Riven,Graves,Vel'Koz,Sivir,Lux
 Challenger,Victory,jp,2019-06-13,Twisted Fate,Gragas,Tahm Kench,Kai'Sa,Alistar,Camille,Nidalee,Talon,Sivir,Yuumi
-Grandmaster,Defeat,ru,2019-06-18,Mordekaiser,Xin Zhao,Anivia,Sivir,Yuumi,Darius,Warwick,Corki,Xayah,Karma
 Challenger,Defeat,br,2019-06-16,Gangplank,Jarvan IV,Cassiopeia,Xayah,Leona,Camille,Lee Sin,Taliyah,Lucian,Galio
 Challenger,Defeat,br,2019-06-17,Garen,Gragas,Ahri,Ezreal,Yuumi,Aatrox,Sejuani,Zed,Ryze,Thresh
 Challenger,Defeat,euw,2019-06-08,Neeko,Lee Sin,Sylas,Draven,Thresh,Jayce,Brand,Camille,Vayne,Soraka
 Challenger,Defeat,jp,2019-06-17,Cho'Gath,Rammus,Sylas,Vayne,Lux,Kled,Elise,Lissandra,Ezreal,Pyke
 Challenger,Defeat,jp,2019-06-13,Kled,Karthus,Tahm Kench,Xayah,Bard,Pantheon,Elise,Irelia,Ezreal,Alistar
-Grandmaster,Defeat,ru,2019-06-18,Vladimir,Hecarim,Azir,Sivir,Yuumi,Poppy,Warwick,Aurelion Sol,Caitlyn,Janna
 Challenger,Defeat,br,2019-06-16,Vladimir,Karthus,Ryze,Xayah,Janna,Gangplank,Olaf,Zed,Draven,Nautilus
 Challenger,Defeat,br,2019-06-17,Kled,Sejuani,Lucian,Kai'Sa,Alistar,Katarina,Rek'Sai,Talon,Xayah,Yuumi
 Challenger,Defeat,euw,2019-06-07,Pantheon,Amumu,Corki,Sivir,Yuumi,Riven,Sejuani,Camille,Ryze,Zac
 Challenger,Defeat,jp,2019-06-16,Neeko,Vi,Malzahar,Caitlyn,Yuumi,Gnar,Nidalee,Zed,Kai'Sa,Lux
 Challenger,Defeat,eune,2019-06-17,Kled,Sejuani,Swain,Sivir,Pyke,Singed,Lee Sin,Vel'Koz,Kai'Sa,Thresh
 Challenger,Defeat,jp,2019-06-09,Darius,Evelynn,Sylas,Ezreal,Lux,Poppy,Rek'Sai,Ekko,Heimerdinger,Blitzcrank
-Grandmaster,Defeat,ru,2019-06-18,Nasus,Warwick,Ziggs,Caitlyn,Nami,Tahm Kench,Graves,Azir,Sivir,Karma
 Challenger,Defeat,br,2019-06-15,Viktor,Graves,Morgana,Kai'Sa,Nautilus,Pyke,Rek'Sai,Syndra,Caitlyn,Lux
 Challenger,Victory,br,2019-06-17,Mordekaiser,Sejuani,Jayce,Xayah,Rakan,Jax,Kayn,Pyke,Lucian,Nautilus
 Challenger,Defeat,euw,2019-06-07,Cho'Gath,Amumu,Heimerdinger,Draven,Lulu,Fiora,Sejuani,Camille,Sivir,Soraka
 Challenger,Defeat,eune,2019-06-19,Riven,Kayn,Irelia,Xayah,Fiddlesticks,Wukong,Karthus,Vel'Koz,Kai'Sa,Thresh
 Challenger,Defeat,eune,2019-06-17,Fiora,Karthus,Xerath,Kai'Sa,Nautilus,Akali,Taliyah,Talon,Ezreal,Alistar
-Grandmaster,Defeat,ru,2019-06-18,Tahm Kench,Warwick,Lux,Xayah,Ahri,Sion,Kha'Zix,Kassadin,Kai'Sa,Soraka
 Challenger,Defeat,br,2019-06-15,Gangplank,Elise,Garen,Vayne,Braum,Irelia,Amumu,Talon,Caitlyn,Karma
 Challenger,Defeat,euw,2019-06-07,Camille,Shaco,Ryze,Xayah,Alistar,Fiora,Sejuani,Cassiopeia,Yasuo,Pyke
 Challenger,Defeat,eune,2019-06-19,Riven,Rek'Sai,Akali,Ashe,Morgana,Camille,Rammus,Zilean,Ezreal,Yuumi
@@ -1989,254 +1979,36 @@ Challenger,Defeat,eune,2019-06-19,Tryndamere,Kindred,Zilean,Swain,Thresh,Kassadi
 Challenger,Defeat,eune,2019-06-10,Ryze,Jarvan IV,LeBlanc,Kai'Sa,Lux,Kled,Sylas,Corki,Ezreal,Janna
 Challenger,Defeat,eune,2019-06-19,Kennen,Kha'Zix,Neeko,Tristana,Lulu,Darius,Nunu & Willump,Kassadin,Draven,Sona
 Challenger,Victory,eune,2019-06-08,Volibear,Rengar,Talon,Sivir,Soraka,Poppy,Evelynn,Irelia,Kai'Sa,Thresh
-Grandmaster,Defeat,ru,2019-06-19,Olaf,Jax,Swain,Sivir,Karma,Vel'Koz,Trundle,Mordekaiser,Draven,Pyke
 Challenger,Defeat,eune,2019-06-08,Camille,Kayn,Taliyah,Tristana,Sona,Darius,Shyvana,Sylas,Kai'Sa,Lulu
-Grandmaster,Defeat,ru,2019-06-19,Mordekaiser,Kindred,Swain,Jhin,Zilean,Fiora,Volibear,Lux,Ezreal,Pyke
 Challenger,Defeat,eune,2019-06-18,Lulu,Hecarim,Corki,Kai'Sa,Nami,Darius,Lee Sin,Ekko,Lucian,Morgana
 Challenger,Defeat,eune,2019-06-08,Jax,Evelynn,Morgana,Ezreal,Sona,Zed,Rek'Sai,Kassadin,Kai'Sa,Taric
 Challenger,Defeat,eune,2019-06-19,Urgot,Jarvan IV,Vel'Koz,Tristana,Blitzcrank,Swain,Nidalee,Talon,Lucian,Morgana
-Grandmaster,Defeat,ru,2019-06-19,Aurelion Sol,Kayn,Kled,Lucian,Blitzcrank,Jax,Taliyah,Swain,Ezreal,Morgana
 Challenger,Victory,eune,2019-06-07,Camille,Rek'Sai,Zoe,Neeko,Karma,Gangplank,Hecarim,Orianna,Draven,Janna
-Grandmaster,Defeat,ru,2019-06-19,Cho'Gath,Master Yi,LeBlanc,Kai'Sa,Nami,Swain,Kha'Zix,Xerath,Jhin,Yuumi
 Challenger,Defeat,eune,2019-06-18,Tahm Kench,Shaco,Zed,Xayah,Rakan,Gangplank,Elise,Lux,Syndra,Pyke
 Challenger,Defeat,eune,2019-06-07,Darius,Kha'Zix,Zoe,Lucian,Pyke,Irelia,Shaco,Taliyah,Kai'Sa,Fiddlesticks
 Challenger,Defeat,eune,2019-06-18,Riven,Hecarim,Lissandra,Xayah,Lux,Darius,Taliyah,Heimerdinger,Jhin,Brand
-Grandmaster,Defeat,ru,2019-06-18,Renekton,Udyr,Swain,Ezreal,Morgana,Illaoi,Kayn,Malzahar,Vayne,Janna
-Grandmaster,Defeat,ru,2019-06-18,Swain,Jarvan IV,Neeko,Jinx,Nautilus,Kennen,Hecarim,Fizz,Caitlyn,Sona
-Grandmaster,Defeat,ru,2019-06-18,Gangplank,Vi,Swain,Sivir,Sona,Yasuo,Kindred,Nunu & Willump,Jinx,Singed
 Challenger,Defeat,eune,2019-06-11,Poppy,Karthus,Vladimir,Kai'Sa,Janna,Rengar,Sejuani,Tahm Kench,Xayah,Rakan
 Challenger,Defeat,eune,2019-06-18,Corki,Kindred,Cassiopeia,Kai'Sa,Pyke,Camille,Nunu & Willump,Twisted Fate,Lucian,Lux
 Challenger,Defeat,eune,2019-06-15,Riven,Hecarim,Vladimir,Jinx,Janna,Akali,Evelynn,Lux,Jhin,Pyke
-Grandmaster,Defeat,ru,2019-06-18,Karma,Elise,Ahri,Tristana,Nami,Darius,Zac,Kassadin,Caitlyn,Blitzcrank
 Challenger,Defeat,eune,2019-06-10,Aatrox,Kha'Zix,LeBlanc,Kai'Sa,Lux,Jayce,Elise,Tahm Kench,Miss Fortune,Pyke
 Challenger,Defeat,eune,2019-06-15,Shen,Kindred,Lux,Sivir,Yuumi,Jarvan IV,Kayn,Karma,Tristana,Rakan
 Challenger,Defeat,eune,2019-06-09,Talon,Elise,Singed,Ashe,Sona,Tahm Kench,Jarvan IV,Ahri,Kai'Sa,Morgana
-Grandmaster,Defeat,ru,2019-06-19,Mordekaiser,Kayn,Veigar,Ezreal,Lulu,Poppy,Kha'Zix,Lux,Kai'Sa,Thresh
 Challenger,Victory,eune,2019-06-16,Nautilus,Taliyah,Yasuo,Ahri,Karma,Kennen,Kayn,Twisted Fate,Ezreal,Pyke
 Challenger,Defeat,eune,2019-06-15,Darius,Skarner,Viktor,Jhin,Rakan,Vayne,Gragas,Tryndamere,Kai'Sa,Yuumi
-Grandmaster,Defeat,ru,2019-06-19,Fiora,Vi,Vladimir,Ashe,Nautilus,Riven,Sejuani,Veigar,Sivir,Cho'Gath
 Challenger,Victory,eune,2019-06-11,Urgot,Elise,Renekton,Draven,Shen,Irelia,Skarner,Lux,Jhin,Thresh
 Challenger,Defeat,eune,2019-06-15,Pyke,Skarner,Mordekaiser,Jinx,Nami,Darius,Elise,Orianna,Caitlyn,Karma
 Challenger,Victory,eune,2019-06-18,Shen,Udyr,Katarina,Jinx,Janna,Neeko,Kindred,Orianna,Kai'Sa,Nami
-Grandmaster,Defeat,ru,2019-06-18,Tahm Kench,Lee Sin,Ekko,Xayah,Pyke,Fiora,Kayn,Lux,Ezreal,Karma
 Challenger,Victory,eune,2019-06-11,Singed,Trundle,Zed,Draven,Lux,Gangplank,Sejuani,Sylas,Kai'Sa,Yuumi
 Challenger,Defeat,eune,2019-06-15,Yasuo,Karthus,Riven,Sivir,Karma,Fiora,Lee Sin,Orianna,Jinx,Lulu
 Challenger,Defeat,eune,2019-06-19,Riven,Nunu & Willump,Azir,Sivir,Karma,Pyke,Jarvan IV,Malzahar,Xayah,Rakan
-Grandmaster,Defeat,ru,2019-06-17,Mordekaiser,Jarvan IV,Ahri,Ezreal,Karma,Jax,Karthus,Lux,Sivir,Nautilus
 Challenger,Defeat,eune,2019-06-10,Tryndamere,Evelynn,Malzahar,Draven,Nautilus,Lux,Kha'Zix,Sylas,Lucian,Poppy
-Grandmaster,Defeat,ru,2019-06-15,Camille,Kayn,Brand,Vayne,Yuumi,Tahm Kench,Sejuani,Lux,Jinx,Taric
 Challenger,Victory,eune,2019-06-18,Kled,Skarner,Twisted Fate,Caitlyn,Sona,Volibear,Sejuani,Mordekaiser,Kai'Sa,Nami
-Grandmaster,Defeat,ru,2019-06-15,Tahm Kench,Mordekaiser,Talon,Caitlyn,Thresh,Yasuo,Karthus,Volibear,Ashe,Lux
-Grandmaster,Defeat,ru,2019-06-15,Sion,Graves,Fizz,Caitlyn,Lulu,Tahm Kench,Gragas,Irelia,Kai'Sa,Vel'Koz
-Grandmaster,Defeat,ru,2019-06-14,Nasus,Lee Sin,Ziggs,Sivir,Morgana,Mordekaiser,Xin Zhao,Vladimir,Jinx,Nautilus
 Challenger,Defeat,eune,2019-06-15,Dr. Mundo,Kayn,Corki,Kai'Sa,Nautilus,Irelia,Skarner,Twisted Fate,Leona,Sona
-Grandmaster,Defeat,ru,2019-06-15,Poppy,Lee Sin,Ahri,Vayne,Brand,Sion,Hecarim,Malzahar,Caitlyn,Lulu
-Grandmaster,Defeat,ru,2019-06-14,Darius,Nocturne,Morgana,Jhin,Pyke,Tahm Kench,Rammus,Syndra,Ezreal,Rakan
 Challenger,Defeat,eune,2019-06-14,Irelia,Rek'Sai,Camille,Kai'Sa,Nami,Heimerdinger,Lee Sin,Malzahar,Ezreal,Sona
-Grandmaster,Defeat,ru,2019-06-14,Poppy,Rengar,Talon,Kai'Sa,Rakan,Karma,Jarvan IV,Lux,Ezreal,Taric
-Grandmaster,Defeat,ru,2019-06-14,Kennen,Vi,Kassadin,Jhin,Xerath,Malphite,Jarvan IV,Pyke,Draven,Veigar
-Grandmaster,Defeat,ru,2019-06-14,Renekton,Yasuo,Kayle,Jinx,Pyke,Tahm Kench,Kha'Zix,Azir,Sivir,Karma
-Grandmaster,Defeat,ru,2019-06-19,Yasuo,Lee Sin,Rumble,Caitlyn,Tahm Kench,Malphite,Jarvan IV,Ahri,Sivir,Yuumi
-Grandmaster,Defeat,ru,2019-06-14,Ornn,Shaco,Lux,Sivir,Thresh,Taric,Jarvan IV,Kennen,Draven,Nautilus
-Grandmaster,Defeat,ru,2019-06-10,Renekton,Zac,Ahri,Yasuo,Blitzcrank,Urgot,Camille,Syndra,Jhin,Taliyah
-Grandmaster,Defeat,ru,2019-06-13,Yasuo,Jarvan IV,Lux,Jinx,Sona,Irelia,Sejuani,Aatrox,Caitlyn,Lulu
-Grandmaster,Defeat,ru,2019-06-19,Urgot,Shaco,Karma,Kai'Sa,Rakan,Tahm Kench,Karthus,Yasuo,Draven,Annie
 Challenger,Victory,eune,2019-06-12,Mordekaiser,Sejuani,Vladimir,Jhin,Sona,Jayce,Nidalee,Zoe,Ezreal,Fiddlesticks
-Grandmaster,Defeat,ru,2019-06-14,Ziggs,Amumu,Twitch,Mordekaiser,Thresh,Darius,Jarvan IV,Kennen,Jhin,Karma
-Grandmaster,Defeat,ru,2019-06-18,Zed,Lee Sin,Maokai,Ezreal,Nautilus,Camille,Mordekaiser,Syndra,Caitlyn,Brand
-Grandmaster,Defeat,ru,2019-06-10,Jhin,Hecarim,Riven,Ezreal,Rakan,Irelia,Shaco,Ahri,Jinx,Janna
-Grandmaster,Defeat,ru,2019-06-18,Fiora,Kha'Zix,Heimerdinger,Jinx,Lux,Ornn,Hecarim,Lissandra,Ezreal,Vel'Koz
 Challenger,Defeat,eune,2019-06-12,Neeko,Lee Sin,Ryze,Swain,Nautilus,Gnar,Jarvan IV,Diana,Draven,Sona
-Grandmaster,Defeat,ru,2019-06-14,Mordekaiser,Evelynn,Caitlyn,Draven,Lux,Illaoi,Elise,Vladimir,Miss Fortune,Pyke
-Grandmaster,Defeat,ru,2019-06-18,Poppy,Shaco,Morgana,Xayah,Sona,Illaoi,Rengar,Veigar,Kai'Sa,Taric
-Grandmaster,Defeat,ru,2019-06-06,Sylas,Diana,Talon,Ezreal,Fiddlesticks,Fiora,Hecarim,Urgot,Jhin,Karma
-Grandmaster,Defeat,ru,2019-06-13,Mordekaiser,Rengar,Zoe,Ezreal,Lux,Poppy,Jarvan IV,Ryze,Sivir,Fiddlesticks
-Grandmaster,Defeat,ru,2019-06-18,Tahm Kench,Ryze,Xerath,Kai'Sa,Nautilus,Kayle,Nunu & Willump,Akali,Lucian,Morgana
-Grandmaster,Defeat,ru,2019-06-06,Irelia,Nunu & Willump,Ryze,Sivir,Morgana,Sylas,Xin Zhao,Ekko,Ashe,Brand
-Grandmaster,Victory,ru,2019-06-19,Tahm Kench,Hecarim,Akali,Varus,Morgana,Ornn,Master Yi,Yasuo,Caitlyn,Lux
-Grandmaster,Defeat,ru,2019-06-13,Urgot,Ivern,Xerath,Vayne,Lux,Tryndamere,Sejuani,Azir,Sivir,Sona
-Grandmaster,Defeat,ru,2019-06-18,Tahm Kench,Taliyah,Akali,Jhin,Sona,Irelia,Kha'Zix,Zilean,Caitlyn,Janna
-Grandmaster,Defeat,ru,2019-06-05,Dr. Mundo,Kha'Zix,Sylas,Kai'Sa,Fiddlesticks,Vladimir,Elise,Aatrox,Jhin,Lux
-Grandmaster,Victory,ru,2019-06-19,Poppy,Jax,Yasuo,Jhin,Tahm Kench,Illaoi,Rengar,Malzahar,Kai'Sa,Thresh
-Grandmaster,Defeat,ru,2019-06-13,Mordekaiser,Elise,Xerath,Jhin,Graves,Fiora,Hecarim,Katarina,Caitlyn,Lux
-Grandmaster,Defeat,ru,2019-06-05,Illaoi,Shyvana,Yasuo,Katarina,Vel'Koz,Jax,Nunu & Willump,Corki,Caitlyn,Yuumi
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Elise,Veigar,Ashe,Karma,Urgot,Taliyah,Yasuo,Kai'Sa,Nautilus
-Grandmaster,Defeat,ru,2019-06-13,Illaoi,Elise,Xerath,Twitch,Thresh,Vayne,Nocturne,Kassadin,Tristana,Lux
-Grandmaster,Defeat,ru,2019-06-17,Quinn,Warwick,Corki,Sona,Taric,Riven,Shaco,Yasuo,Caitlyn,Mordekaiser
-Grandmaster,Defeat,ru,2019-06-01,Volibear,Jarvan IV,Kassadin,Tristana,Nami,Dr. Mundo,Kayn,Malzahar,Draven,Soraka
-Grandmaster,Defeat,ru,2019-06-18,Aatrox,Nocturne,Xerath,Ashe,Nami,Darius,Sejuani,Lux,Ezreal,Yuumi
-Grandmaster,Defeat,ru,2019-06-14,Sion,Nocturne,Ahri,Caitlyn,Vel'Koz,Fiora,Shaco,Orianna,Jhin,Lux
-Grandmaster,Defeat,ru,2019-06-01,Akali,Master Yi,Tahm Kench,Jinx,Janna,Irelia,Aatrox,Sylas,Kai'Sa,Alistar
-Grandmaster,Defeat,ru,2019-06-14,Akali,Evelynn,Zed,Kai'Sa,Pyke,Sion,Shaco,Xerath,Jhin,Zilean
-Grandmaster,Defeat,ru,2019-06-01,Yasuo,Gragas,Sylas,Draven,Nami,Jax,Zac,Vladimir,Kai'Sa,Bard
-Grandmaster,Defeat,ru,2019-06-14,Mordekaiser,Kayn,Orianna,Ashe,Blitzcrank,Akali,Shaco,Xerath,Ezreal,Zyra
-Grandmaster,Defeat,ru,2019-06-04,Tryndamere,Gragas,Malzahar,Jinx,Pyke,Jayce,Lee Sin,Diana,Kai'Sa,Thresh
-Grandmaster,Defeat,ru,2019-06-03,Ryze,Rammus,Malzahar,Jhin,Janna,Tryndamere,Jax,Yasuo,Kai'Sa,Nautilus
-Grandmaster,Defeat,ru,2019-06-01,Quinn,Wukong,Syndra,Kai'Sa,Morgana,Renekton,Lee Sin,Twisted Fate,Draven,Blitzcrank
-Grandmaster,Defeat,ru,2019-05-29,Neeko,Nocturne,Vladimir,Yasuo,Volibear,Fiora,Rek'Sai,Malzahar,Draven,Rakan
-Grandmaster,Defeat,ru,2019-05-29,Malphite,Kayn,Malzahar,Kai'Sa,Morgana,Aatrox,Nunu & Willump,Akali,Ezreal,Rakan
-Grandmaster,Defeat,ru,2019-05-29,Volibear,Sejuani,Sylas,Neeko,Thresh,Yasuo,Nunu & Willump,Aatrox,Ezreal,Rakan
-Grandmaster,Defeat,ru,2019-05-29,Jax,Elise,Gangplank,Jinx,Lulu,Garen,Nunu & Willump,Sylas,Lucian,Pyke
-Grandmaster,Defeat,ru,2019-05-28,Aatrox,Vi,LeBlanc,Sivir,Yuumi,Vladimir,Rek'Sai,Sylas,Caitlyn,Vel'Koz
-Grandmaster,Defeat,ru,2019-06-19,Karma,Graves,Zed,Irelia,Lux,Teemo,Sejuani,Yasuo,Jhin,Zyra
-Grandmaster,Defeat,ru,2019-05-26,Kled,Taliyah,LeBlanc,Jhin,Zilean,Renekton,Ivern,Vladimir,Caitlyn,Morgana
-Grandmaster,Defeat,ru,2019-06-19,Mordekaiser,Hecarim,Kled,Ezreal,Morgana,Corki,Kha'Zix,Poppy,Ashe,Sona
-Grandmaster,Defeat,ru,2019-05-26,Urgot,Taliyah,Kassadin,Jhin,Zyra,Tahm Kench,Elise,Corki,Varus,Miss Fortune
-Grandmaster,Defeat,ru,2019-06-17,Jax,Zac,Lux,Jinx,Karma,Urgot,Ivern,Ekko,Sivir,Veigar
-Grandmaster,Defeat,ru,2019-06-16,Karma,Warwick,Vel'Koz,Kai'Sa,Nautilus,Mordekaiser,Lee Sin,Katarina,Caitlyn,Lux
-Grandmaster,Victory,ru,2019-06-18,Kayle,Taliyah,Ashe,Sona,Taric,Riven,Xin Zhao,Veigar,Jinx,Karma
-Grandmaster,Defeat,ru,2019-06-11,Irelia,Elise,Kassadin,Kai'Sa,Fiddlesticks,Jax,Graves,Ahri,Ezreal,Lux
-Grandmaster,Defeat,ru,2019-06-18,Urgot,Xin Zhao,Veigar,Kai'Sa,Ezreal,Dr. Mundo,Shaco,Xerath,Sivir,Lux
-Grandmaster,Defeat,ru,2019-06-10,Camille,Rengar,Malzahar,Varus,Zyra,Urgot,Vi,Katarina,Neeko,Lux
-Grandmaster,Defeat,ru,2019-06-18,Gangplank,Hecarim,Veigar,Kai'Sa,Nautilus,Mordekaiser,Jarvan IV,Ryze,Jhin,Karma
-Grandmaster,Defeat,ru,2019-06-09,Shen,Urgot,Kassadin,Neeko,Taliyah,Renekton,Jarvan IV,Syndra,Draven,Morgana
-Grandmaster,Defeat,ru,2019-06-18,Ryze,Warwick,Fizz,Ezreal,Fiddlesticks,Kayle,Taliyah,Ahri,Jhin,Thresh
-Grandmaster,Defeat,ru,2019-06-09,Gnar,Xin Zhao,Zed,Sivir,Lux,Karthus,Elise,Gangplank,Kai'Sa,Blitzcrank
-Grandmaster,Defeat,ru,2019-06-18,Kayle,Kayn,Orianna,Ezreal,Zyra,Urgot,Taliyah,Zed,Ashe,Morgana
-Grandmaster,Defeat,ru,2019-06-19,Sylas,Kha'Zix,Mordekaiser,Sivir,Karma,Riven,Evelynn,Zed,Ezreal,Lulu
-Grandmaster,Defeat,ru,2019-06-19,Yasuo,Jax,Zoe,Ezreal,Sona,Riven,Shaco,Kassadin,Jhin,Thresh
-Grandmaster,Victory,ru,2019-06-19,Aatrox,Shaco,Zed,Jhin,Nautilus,Riven,Elise,Zoe,Xayah,Zilean
-Grandmaster,Victory,ru,2019-06-18,Nasus,Evelynn,Xerath,Sivir,Nautilus,Singed,Karthus,Nocturne,Ezreal,Pyke
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Nunu & Willump,Diana,Jhin,Sona,Jax,Evelynn,Swain,Lucian,Thresh
-Grandmaster,Victory,ru,2019-06-18,Garen,Evelynn,Kassadin,Sivir,Leona,Renekton,Sejuani,Swain,Kai'Sa,Vel'Koz
-Grandmaster,Victory,ru,2019-06-16,Garen,Shaco,Vel'Koz,Sivir,Thresh,Nautilus,Evelynn,Yasuo,Ashe,Karma
-Grandmaster,Defeat,ru,2019-06-16,Riven,Mordekaiser,Katarina,Jhin,Karma,Poppy,Hecarim,Yasuo,Lucian,Yuumi
-Grandmaster,Defeat,ru,2019-06-16,Tahm Kench,Hecarim,Morgana,Caitlyn,Soraka,Kayle,Amumu,Katarina,Draven,Xerath
-Grandmaster,Defeat,ru,2019-06-16,Tahm Kench,Vi,Orianna,Ezreal,Fiddlesticks,Vayne,Twitch,Neeko,Draven,Sona
-Grandmaster,Defeat,ru,2019-06-16,Mordekaiser,Udyr,Orianna,Draven,Lux,Tahm Kench,Kayn,Ahri,Jinx,Zilean
-Grandmaster,Defeat,ru,2019-06-15,Ornn,Graves,Corki,Kai'Sa,Nautilus,Renekton,Lee Sin,Katarina,Jhin,Fiddlesticks
-Grandmaster,Defeat,ru,2019-06-15,Mordekaiser,Kindred,Viktor,Sivir,Zilean,Poppy,Twitch,Twisted Fate,Caitlyn,Nami
-Grandmaster,Defeat,ru,2019-06-19,Poppy,Hecarim,Ekko,Sivir,Lulu,Irelia,Kha'Zix,Malzahar,Ezreal,Sona
-Grandmaster,Defeat,ru,2019-06-15,Riven,Warwick,Rumble,Ashe,Soraka,Renekton,Rengar,Katarina,Sivir,Malzahar
-Grandmaster,Defeat,ru,2019-06-19,Malphite,Hecarim,Malzahar,Ezreal,Sona,Garen,Sejuani,Ziggs,Jhin,Thresh
-Grandmaster,Defeat,ru,2019-06-15,Mordekaiser,Shaco,Orianna,Ashe,Leona,Poppy,Twitch,Xerath,Varus,Tahm Kench
-Grandmaster,Defeat,ru,2019-06-19,Maokai,Vi,Diana,Ezreal,Nami,Irelia,Nocturne,Heimerdinger,Lucian,Nautilus
-Grandmaster,Defeat,ru,2019-06-14,Gragas,Mordekaiser,Katarina,Draven,Janna,Kayle,Amumu,Zed,Caitlyn,Lux
-Grandmaster,Defeat,ru,2019-06-19,Sejuani,Master Yi,Twisted Fate,Sivir,Sona,Aatrox,Jax,Lux,Caitlyn,Morgana
-Grandmaster,Defeat,ru,2019-06-19,Lee Sin,Evelynn,Twisted Fate,Yasuo,Janna,Fiora,Hecarim,Azir,Sivir,Nautilus
-Grandmaster,Defeat,ru,2019-06-10,Darius,Kayn,Xerath,Sivir,Pyke,Nasus,Trundle,Zoe,Caitlyn,Blitzcrank
-Grandmaster,Defeat,ru,2019-06-19,Renekton,Hecarim,Veigar,Caitlyn,Nautilus,Twisted Fate,Master Yi,Irelia,Sivir,Sona
-Grandmaster,Defeat,ru,2019-06-18,Ryze,Evelynn,Irelia,Sivir,Pyke,Mordekaiser,Kha'Zix,Ahri,Tristana,Karma
-Grandmaster,Victory,ru,2019-06-10,Ryze,Karthus,Talon,Caitlyn,Janna,Darius,Pantheon,Ekko,Sivir,Yuumi
-Grandmaster,Defeat,ru,2019-06-19,Mordekaiser,Kha'Zix,Lux,Caitlyn,Karma,Vladimir,Rek'Sai,Twisted Fate,Ezreal,Yuumi
-Grandmaster,Defeat,ru,2019-06-10,Lux,Taliyah,Aatrox,Tristana,Thresh,Yasuo,Twitch,Zoe,Kai'Sa,Blitzcrank
-Grandmaster,Defeat,ru,2019-06-18,Riven,Shaco,Ezreal,Jinx,Vel'Koz,Heimerdinger,Amumu,Xerath,Varus,Lux
-Grandmaster,Defeat,ru,2019-06-18,Camille,Udyr,Azir,Varus,Karma,Jax,Rengar,Rumble,Draven,Nami
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Skarner,Ziggs,Jinx,Lux,Karma,Hecarim,Heimerdinger,Varus,Nautilus
-Grandmaster,Defeat,ru,2019-06-18,Jax,Lee Sin,Neeko,Draven,Nami,Mordekaiser,Trundle,Lissandra,Jhin,Lux
-Grandmaster,Defeat,ru,2019-06-18,Urgot,Jarvan IV,Lux,Sona,Taric,Tahm Kench,Xin Zhao,Irelia,Caitlyn,Ezreal
-Grandmaster,Defeat,ru,2019-06-18,Renekton,Pyke,Lux,Sivir,Nautilus,Maokai,Nocturne,Zed,Lucian,Brand
-Grandmaster,Defeat,ru,2019-06-18,Camille,Nidalee,Ahri,Sivir,Nautilus,Yasuo,Trundle,Azir,Ezreal,Karma
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Sejuani,Kassadin,Ezreal,Yuumi,Aatrox,Vi,Urgot,Vayne,Lux
-Grandmaster,Defeat,ru,2019-06-12,Kayle,Hecarim,Lux,Kai'Sa,Thresh,Cho'Gath,Kha'Zix,Ahri,Caitlyn,Alistar
-Grandmaster,Defeat,ru,2019-06-18,Cho'Gath,Kayn,Lux,Kai'Sa,Thresh,Sejuani,Tryndamere,Irelia,Sona,Taric
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Sejuani,Sylas,Sivir,Pyke,Fiora,Kayn,Jayce,Vayne,Lux
-Grandmaster,Defeat,ru,2019-06-11,Pyke,Rek'Sai,Neeko,Tristana,Janna,Ornn,Kindred,Ziggs,Lucian,Fiddlesticks
-Grandmaster,Defeat,ru,2019-06-18,Riven,Taliyah,Lissandra,Kai'Sa,Thresh,Mordekaiser,Jarvan IV,Katarina,Sivir,Karma
-Grandmaster,Defeat,ru,2019-06-11,Sion,Kayn,Ziggs,Kai'Sa,Fiddlesticks,Riven,Kindred,Corki,Yasuo,Thresh
-Grandmaster,Defeat,ru,2019-06-10,Dr. Mundo,Vi,Ekko,Lucian,Vel'Koz,Shen,Karthus,Malzahar,Kai'Sa,Xerath
-Grandmaster,Defeat,ru,2019-06-10,Riven,Shaco,Sylas,Kai'Sa,Leona,Malphite,Hecarim,Veigar,Vayne,Thresh
-Grandmaster,Defeat,ru,2019-06-10,Xerath,Lee Sin,Gnar,Ashe,Nami,Jayce,Aatrox,LeBlanc,Sivir,Neeko
-Grandmaster,Defeat,ru,2019-06-10,Aatrox,Xin Zhao,Lux,Ezreal,Vel'Koz,Tahm Kench,Kayn,Twisted Fate,Draven,Brand
-Grandmaster,Defeat,ru,2019-06-09,Ryze,Kindred,Lux,Kai'Sa,Morgana,Camille,Aatrox,Aurelion Sol,Miss Fortune,Shen
-Grandmaster,Defeat,ru,2019-06-09,Aatrox,Kindred,Orianna,Ezreal,Lux,Gnar,Vi,Sylas,Kai'Sa,Janna
-Grandmaster,Victory,ru,2019-06-19,Kayle,Jax,Cho'Gath,Sivir,Sona,Poppy,Rek'Sai,Yasuo,Ezreal,Vel'Koz
-Grandmaster,Defeat,ru,2019-06-17,Tahm Kench,Sejuani,LeBlanc,Kai'Sa,Blitzcrank,Pyke,Hecarim,Malzahar,Vayne,Janna
-Grandmaster,Defeat,ru,2019-06-16,Kennen,Lee Sin,Viktor,Jhin,Fiddlesticks,Karma,Vi,Aatrox,Caitlyn,Lulu
-Grandmaster,Victory,ru,2019-06-15,Ryze,Sejuani,Zoe,Tristana,Lux,Mordekaiser,Kayn,Malzahar,Sivir,Yuumi
-Grandmaster,Victory,ru,2019-06-14,Jayce,Trundle,Katarina,Ezreal,Karma,Mordekaiser,Sejuani,Lux,Caitlyn,Morgana
-Grandmaster,Victory,ru,2019-06-19,Tahm Kench,Olaf,Ryze,Ezreal,Soraka,Vayne,Nunu & Willump,Syndra,Jinx,Nami
-Grandmaster,Defeat,ru,2019-06-12,Cho'Gath,Hecarim,Katarina,Kai'Sa,Rakan,Ornn,Xin Zhao,Ahri,Ezreal,Yuumi
-Grandmaster,Defeat,ru,2019-06-11,Yorick,Amumu,Zed,Vayne,Pyke,Nasus,Volibear,Lux,Ezreal,Thresh
-Grandmaster,Defeat,ru,2019-06-19,Kassadin,Gragas,Neeko,Ashe,Yuumi,Maokai,Nocturne,Aatrox,Ezreal,Soraka
-Grandmaster,Victory,ru,2019-06-10,Ryze,Amumu,Malzahar,Kai'Sa,Braum,Malphite,Aatrox,Yasuo,Ezreal,Vel'Koz
-Grandmaster,Victory,ru,2019-06-18,Darius,Kayn,Pyke,Tristana,Morgana,Camille,Sejuani,Ahri,Ezreal,Nami
-Grandmaster,Defeat,ru,2019-06-19,Camille,Sejuani,Nocturne,Draven,Yasuo,Tahm Kench,Udyr,LeBlanc,Sona,Taric
-Grandmaster,Defeat,ru,2019-06-19,Pyke,Shyvana,Xerath,Ezreal,Karma,Camille,Shaco,Malzahar,Kai'Sa,Alistar
-Grandmaster,Defeat,ru,2019-06-18,Darius,Graves,Corki,Caitlyn,Rakan,Aatrox,Nocturne,Ekko,Sona,Taric
-Grandmaster,Victory,ru,2019-06-17,Yorick,Ryze,Azir,Ezreal,Lux,Cho'Gath,Sejuani,Sylas,Miss Fortune,Pyke
-Grandmaster,Victory,ru,2019-06-06,Teemo,Kayn,Orianna,Ashe,Malzahar,Poppy,Ivern,Gangplank,Draven,Lux
-Grandmaster,Defeat,ru,2019-06-17,Garen,Kayn,Lissandra,Sivir,Thresh,Aurelion Sol,Pantheon,Akali,Jhin,Leona
-Grandmaster,Defeat,ru,2019-06-06,Aatrox,Trundle,Neeko,Karthus,Janna,Irelia,Xin Zhao,Zed,Sivir,Yuumi
-Grandmaster,Defeat,ru,2019-06-15,Pantheon,Kindred,Azir,Ezreal,Xerath,Riven,Master Yi,Orianna,Caitlyn,Yuumi
-Grandmaster,Victory,ru,2019-06-06,Riven,Warwick,Malzahar,Sivir,Yuumi,Yasuo,Kayn,Vel'Koz,Ezreal,Nautilus
-Grandmaster,Defeat,ru,2019-06-15,Darius,Warwick,Xerath,Neeko,Thresh,Mordekaiser,Aatrox,Veigar,Ezreal,Lux
-Grandmaster,Defeat,ru,2019-06-06,Camille,Kayn,Malzahar,Caitlyn,Annie,Swain,Jax,Yasuo,Sivir,Lux
-Grandmaster,Defeat,ru,2019-06-15,Nasus,Lee Sin,Yasuo,Ezreal,Brand,Darius,Gragas,Talon,Twitch,Thresh
-Grandmaster,Defeat,ru,2019-06-06,Karma,Kha'Zix,Yorick,Varus,Alistar,Tryndamere,Karthus,Corki,Ezreal,Janna
-Grandmaster,Defeat,ru,2019-06-14,Pantheon,Hecarim,Katarina,Jinx,Thresh,Jayce,Ekko,Lux,Xayah,Zilean
-Grandmaster,Victory,ru,2019-06-06,Akali,Kayn,Viktor,Vayne,Lulu,Urgot,Hecarim,Lux,Sivir,Nautilus
-Grandmaster,Defeat,ru,2019-06-18,Sion,Jarvan IV,Aurelion Sol,Sivir,Karma,Poppy,Kha'Zix,Vladimir,Kai'Sa,Janna
-Grandmaster,Victory,ru,2019-06-18,Jax,Lee Sin,Gragas,Caitlyn,Nautilus,Kled,Graves,Aurelion Sol,Sivir,Yuumi
-Grandmaster,Victory,ru,2019-06-18,Jax,Volibear,Corki,Draven,Nautilus,Illaoi,Vi,Syndra,Sivir,Sona
-Grandmaster,Victory,ru,2019-06-17,Jax,Nidalee,Lux,Xerath,Sivir,Cho'Gath,Kayn,Karthus,Ezreal,Karma
-Grandmaster,Defeat,ru,2019-06-16,Twisted Fate,Karthus,Jax,Vayne,Nami,Mordekaiser,Xin Zhao,Veigar,Ezreal,Blitzcrank
-Grandmaster,Victory,ru,2019-06-16,Darius,Warwick,Vladimir,Draven,Nami,Mordekaiser,Kayn,Xerath,Jhin,Leona
-Grandmaster,Defeat,ru,2019-06-16,Nasus,Nocturne,Lux,Sivir,Janna,Cho'Gath,Kayn,Kassadin,Jinx,Nami
-Grandmaster,Defeat,ru,2019-06-14,Karma,Rengar,Kennen,Jhin,Neeko,Pyke,Kha'Zix,Twisted Fate,Jinx,Nami
-Grandmaster,Victory,ru,2019-06-16,Corki,Aatrox,Jax,Ezreal,Bard,Nasus,Taliyah,Veigar,Jhin,Sona
-Grandmaster,Defeat,ru,2019-06-14,Camille,Shaco,Ziggs,Jinx,Lux,Mordekaiser,Jarvan IV,Zoe,Miss Fortune,Ezreal
-Grandmaster,Victory,ru,2019-06-16,Irelia,Fiddlesticks,Vladimir,Ezreal,Sona,Fiora,Kha'Zix,Malzahar,Sivir,Brand
-Grandmaster,Victory,ru,2019-06-12,Aatrox,Zac,Talon,Ezreal,Nami,Renekton,Jarvan IV,Anivia,Sivir,Morgana
-Grandmaster,Defeat,ru,2019-06-11,Renekton,Kayn,Diana,Vayne,Yuumi,Vladimir,Vi,Vel'Koz,Miss Fortune,Nautilus
-Grandmaster,Defeat,ru,2019-06-18,Gangplank,Zac,Pyke,Kai'Sa,Sona,Karma,Hecarim,Zoe,Ezreal,Yuumi
-Grandmaster,Defeat,ru,2019-06-10,Akali,Sejuani,Talon,Kai'Sa,Leona,Aatrox,Kha'Zix,Ahri,Draven,Vel'Koz
-Grandmaster,Defeat,ru,2019-06-18,Riven,Kindred,Orianna,Sona,Taric,Olaf,Jarvan IV,Kassadin,Xayah,Rakan
-Grandmaster,Defeat,ru,2019-06-19,Ornn,Sejuani,Xerath,Kai'Sa,Karma,Urgot,Hecarim,Veigar,Sivir,Ezreal
-Grandmaster,Defeat,ru,2019-06-19,Karma,Warwick,Vladimir,Sivir,Nami,Illaoi,Karthus,Kassadin,Jinx,Bard
-Grandmaster,Victory,ru,2019-06-16,Tahm Kench,Hecarim,Lux,Caitlyn,Karma,Gangplank,Graves,Malzahar,Sivir,Lulu
-Grandmaster,Defeat,ru,2019-06-16,Yasuo,Lee Sin,Katarina,Sivir,Nautilus,Tahm Kench,Ivern,Lux,Ezreal,Zyra
-Grandmaster,Victory,ru,2019-06-15,Nasus,Cho'Gath,Lux,Sivir,Yuumi,Poppy,Sejuani,Ahri,Ezreal,Thresh
-Grandmaster,Defeat,ru,2019-06-18,Swain,Evelynn,Yasuo,Jhin,Pyke,Karma,Hecarim,Fizz,Ezreal,Thresh
-Grandmaster,Defeat,ru,2019-06-18,Camille,Amumu,Zed,Ezreal,Taric,Nautilus,Taliyah,Aatrox,Kayle,Sona
-Grandmaster,Defeat,ru,2019-06-18,Jax,Nocturne,Sylas,Ezreal,Karma,Camille,Taliyah,Syndra,Tristana,Nautilus
-Grandmaster,Defeat,ru,2019-06-17,Illaoi,Rengar,Zed,Twitch,Morgana,Mordekaiser,Kayn,Malzahar,Sivir,Sona
-Grandmaster,Defeat,ru,2019-06-18,Riven,Kha'Zix,Katarina,Ashe,Lux,Gnar,Rek'Sai,Aurelion Sol,Jinx,Thresh
-Grandmaster,Defeat,ru,2019-06-16,Ornn,Rek'Sai,Aurelion Sol,Caitlyn,Nautilus,Kayle,Ivern,Zed,Kai'Sa,Janna
-Grandmaster,Defeat,ru,2019-06-18,Tryndamere,Udyr,Fizz,Jhin,Xerath,Kennen,Hecarim,Pyke,Kai'Sa,Karma
-Grandmaster,Defeat,ru,2019-06-18,Aatrox,Warwick,Katarina,Ezreal,Lux,Renekton,Hecarim,Aurelion Sol,Jhin,Pyke
-Grandmaster,Victory,ru,2019-06-19,Neeko,Zac,Azir,Twitch,Morgana,Camille,Kha'Zix,LeBlanc,Caitlyn,Xerath
-Grandmaster,Defeat,ru,2019-06-18,Poppy,Twitch,Zoe,Kai'Sa,Thresh,Nasus,Volibear,Neeko,Caitlyn,Janna
-Grandmaster,Defeat,ru,2019-06-18,Singed,Volibear,Irelia,Lucian,Zilean,Jax,Elise,Galio,Ezreal,Sona
-Grandmaster,Defeat,ru,2019-06-18,Karma,Sejuani,Ahri,Kai'Sa,Morgana,Jax,Olaf,Lux,Ezreal,Nautilus
-Grandmaster,Defeat,ru,2019-06-18,Tahm Kench,Rengar,Katarina,Xayah,Sona,Illaoi,Jarvan IV,Lissandra,Draven,Xerath
-Grandmaster,Defeat,ru,2019-06-18,Vladimir,Kha'Zix,Aatrox,Draven,Tahm Kench,Riven,Trundle,Swain,Ashe,Lux
-Grandmaster,Defeat,ru,2019-06-18,Mordekaiser,Kayn,Lux,Sivir,Annie,Cho'Gath,Karthus,Ezreal,Vayne,Janna
-Grandmaster,Defeat,ru,2019-06-18,Renekton,Kayn,Zed,Sivir,Nautilus,Teemo,Nunu & Willump,Yasuo,Ezreal,Pyke
-Grandmaster,Defeat,ru,2019-06-19,Ornn,Evelynn,Malzahar,Caitlyn,Lux,Mordekaiser,Kha'Zix,Varus,Kai'Sa,Zyra
-Grandmaster,Defeat,ru,2019-06-18,Irelia,Kayn,Ezreal,Sivir,Janna,Karma,Vi,Pyke,Caitlyn,Lux
-Grandmaster,Defeat,ru,2019-06-18,Tryndamere,Evelynn,Ezreal,Sivir,Annie,Riven,Ivern,Azir,Caitlyn,Janna
-Grandmaster,Defeat,ru,2019-06-17,Illaoi,Karthus,Ezreal,Vayne,Lulu,Mordekaiser,Wukong,Zoe,Kai'Sa,Nautilus
-Grandmaster,Defeat,ru,2019-06-16,Urgot,Taliyah,Ahri,Sivir,Karma,Camille,Shaco,Viktor,Draven,Nautilus
-Grandmaster,Defeat,ru,2019-06-19,Jayce,Kha'Zix,Zoe,Vayne,Janna,Mordekaiser,Jax,Fizz,Miss Fortune,Lux
-Grandmaster,Defeat,ru,2019-06-18,Teemo,Hecarim,Katarina,Caitlyn,Janna,Gangplank,Sejuani,Yasuo,Lucian,Karma
-Grandmaster,Defeat,ru,2019-06-17,Pantheon,Kha'Zix,Neeko,Renekton,Yuumi,Dr. Mundo,Taliyah,Talon,Sivir,Karma
-Grandmaster,Victory,ru,2019-06-17,Vayne,Vi,Neeko,Sivir,Karma,Urgot,Warwick,Kassadin,Sona,Taric
-Grandmaster,Defeat,ru,2019-06-12,Camille,Sejuani,Lux,Kai'Sa,Veigar,Mordekaiser,Vi,Corki,Tristana,Nautilus
-Grandmaster,Defeat,ru,2019-06-11,Kassadin,Aatrox,Gangplank,Miss Fortune,Lux,Tahm Kench,Hecarim,Vel'Koz,Kennen,Nautilus
-Grandmaster,Defeat,ru,2019-06-11,Darius,Evelynn,Lux,Ezreal,Annie,Tryndamere,Master Yi,Swain,Miss Fortune,Brand
-Grandmaster,Defeat,ru,2019-06-10,Nasus,Jax,Malzahar,Caitlyn,Taliyah,Darius,Vi,Kassadin,Lucian,Brand
-Grandmaster,Defeat,ru,2019-06-09,Malphite,Jarvan IV,Neeko,Jinx,Lux,Vayne,Vi,Sylas,Miss Fortune,Rakan
-Grandmaster,Defeat,ru,2019-06-18,Darius,Nunu & Willump,LeBlanc,Caitlyn,Zyra,Twisted Fate,Sejuani,Neeko,Ezreal,Janna
-Grandmaster,Defeat,ru,2019-06-17,Akali,Rek'Sai,Orianna,Caitlyn,Nautilus,Fiora,Ivern,Ahri,Sivir,Nami
-Grandmaster,Defeat,ru,2019-06-17,Mordekaiser,Jarvan IV,Annie,Ashe,Morgana,Kayle,Taliyah,Fizz,Caitlyn,Brand
-Grandmaster,Defeat,ru,2019-06-17,Mordekaiser,Evelynn,Corki,Ezreal,Lux,Poppy,Diana,Irelia,Lucian,Karma
-Grandmaster,Defeat,ru,2019-06-19,Poppy,Kindred,Lux,Sona,Taric,Neeko,Sejuani,Xayah,Twitch,Zilean
-Grandmaster,Defeat,ru,2019-06-18,Kled,Xin Zhao,Rumble,Miss Fortune,Nautilus,Nasus,Master Yi,Fizz,Caitlyn,Tahm Kench
-Grandmaster,Victory,ru,2019-06-15,Akali,Twitch,Katarina,Tristana,Yuumi,Gangplank,Evelynn,Lissandra,Xayah,Rakan
-Grandmaster,Victory,ru,2019-06-15,Poppy,Nocturne,Anivia,Ezreal,Yuumi,Mordekaiser,Vi,Xerath,Xayah,Zilean
-Grandmaster,Defeat,ru,2019-06-19,Aatrox,Sejuani,Sylas,Vayne,Blitzcrank,Corki,Hecarim,Cho'Gath,Xayah,Nautilus
-Grandmaster,Victory,ru,2019-06-15,Mordekaiser,Graves,Katarina,Lucian,Yuumi,Garen,Zac,Talon,Ashe,Karma
-Grandmaster,Defeat,ru,2019-06-17,Tahm Kench,Kha'Zix,Annie,Caitlyn,Taliyah,Pyke,Zac,Malzahar,Ezreal,Zilean
-Grandmaster,Defeat,ru,2019-06-12,Jax,Xin Zhao,Neeko,Ezreal,Leona,Kled,Vi,Ahri,Tristana,Annie
-Grandmaster,Defeat,ru,2019-06-17,Yasuo,Zac,Fizz,Tristana,Karma,Shen,Sylas,Malzahar,Jhin,Zilean
-Grandmaster,Defeat,ru,2019-06-17,Riven,Jax,Aurelion Sol,Jhin,Karma,Malphite,Pantheon,Sylas,Caitlyn,Taliyah
 Challenger,Defeat,ru,2019-06-19,Urgot,Sylas,Lux,Ezreal,Vel'Koz,Renekton,Zac,Ahri,Jhin,Soraka
-Grandmaster,Defeat,ru,2019-06-17,Malphite,Fiddlesticks,Pyke,Caitlyn,Veigar,Mordekaiser,Teemo,Yasuo,Ezreal,Xerath
 Challenger,Defeat,ru,2019-06-19,Urgot,Sejuani,Zed,Kai'Sa,Fiddlesticks,Aatrox,Taliyah,Ahri,Ashe,Pantheon
-Grandmaster,Victory,ru,2019-06-17,Nasus,Rengar,Mordekaiser,Caitlyn,Blitzcrank,Aatrox,Karthus,Fiora,Ezreal,Taliyah
-Grandmaster,Defeat,ru,2019-06-17,Poppy,Kayn,Malzahar,Kalista,Morgana,Tryndamere,Sejuani,Vladimir,Ezreal,Neeko
-Grandmaster,Victory,ru,2019-06-17,Vladimir,Master Yi,Zed,Ezreal,Taliyah,Mordekaiser,Rek'Sai,Lux,Sivir,Thresh
 Challenger,Defeat,ru,2019-06-18,Mordekaiser,Kayn,Annie,Ezreal,Lux,Kayle,Elise,Kennen,Sivir,Thresh
 Challenger,Defeat,ru,2019-06-17,Urgot,Cho'Gath,Azir,Caitlyn,Leona,Riven,Jarvan IV,Viktor,Sivir,Karma
 Challenger,Defeat,ru,2019-06-17,Urgot,Camille,Anivia,Xayah,Soraka,Fiora,Nidalee,Veigar,Lucian,Nami
@@ -4921,22 +4693,15 @@ Challenger,Defeat,br,2019-06-18,Gragas,Rek'Sai,Yasuo,Ezreal,Zyra,Jax,Hecarim,Ahr
 Challenger,Victory,br,2019-06-15,Karthus,Lee Sin,Ryze,Sivir,Brand,Camille,Elise,Zed,Kai'Sa,Janna
 Challenger,Victory,br,2019-06-19,Irelia,Sylas,Camille,Ezreal,Karma,Riven,Lee Sin,Gragas,Kai'Sa,Lux
 Challenger,Defeat,br,2019-06-14,Gangplank,Lee Sin,Ekko,Kai'Sa,Jarvan IV,Riven,Sejuani,LeBlanc,Sivir,Soraka
-Grandmaster,Victory,oce,2019-06-18,Karma,Lee Sin,Ryze,Sivir,Lux,Irelia,Rek'Sai,Neeko,Xayah,Sona
 Challenger,Defeat,br,2019-06-18,Shen,Kha'Zix,Irelia,Xayah,Sona,Tahm Kench,Karthus,Corki,Kai'Sa,Thresh
 Challenger,Defeat,br,2019-06-12,Rumble,Rek'Sai,Ahri,Lucian,Karma,Riven,Sejuani,Vladimir,Draven,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Ryze,Kindred,Irelia,Sivir,Karma,Fiora,Aatrox,Akali,Kai'Sa,Nautilus
 Challenger,Defeat,br,2019-06-18,Pyke,Hecarim,Mordekaiser,Ezreal,Lux,Fiora,Jarvan IV,Talon,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Aatrox,Sejuani,Yasuo,Ezreal,Lux,Neeko,Hecarim,Twisted Fate,Lucian,Nautilus
 Challenger,Defeat,br,2019-06-19,Karma,Elise,Camille,Caitlyn,Morgana,Pyke,Rek'Sai,Azir,Ezreal,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Irelia,Zac,Yasuo,Sivir,Bard,Tahm Kench,Hecarim,Lucian,Kai'Sa,Karma
 Challenger,Defeat,br,2019-06-18,Gangplank,Kayn,Twisted Fate,Jinx,Nami,Aatrox,Jarvan IV,Ryze,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-17,Ornn,Taliyah,Ekko,Ezreal,Lux,Irelia,Rammus,Riven,Lucian,Poppy
 Challenger,Defeat,br,2019-06-18,Renekton,Hecarim,Lucian,Varus,Vel'Koz,Riven,Rengar,Ryze,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-17,Pantheon,Kha'Zix,Neeko,Ezreal,Lulu,Ryze,Hecarim,Lux,Twitch,Yuumi
 Challenger,Defeat,br,2019-06-18,Darius,Rengar,Taliyah,Sivir,Yuumi,Neeko,Rek'Sai,Mordekaiser,Ezreal,Shaco
 Challenger,Victory,br,2019-06-17,Sion,Rek'Sai,LeBlanc,Sivir,Yuumi,Darius,Jarvan IV,Yasuo,Ezreal,Karma
 Challenger,Defeat,br,2019-06-17,Pyke,Elise,Irelia,Lucian,Thresh,Yasuo,Taliyah,Corki,Kai'Sa,Zyra
-Grandmaster,Defeat,oce,2019-06-17,Fiora,Lee Sin,Yasuo,Cassiopeia,Yuumi,Mordekaiser,Taliyah,Zoe,Ashe,Zyra
 Challenger,Defeat,br,2019-06-18,Shen,Lee Sin,Aatrox,Lucian,Karma,Illaoi,Jarvan IV,Pyke,Sivir,Yuumi
 Challenger,Defeat,br,2019-06-17,Rengar,Kayn,Pyke,Ezreal,Vel'Koz,Ryze,Taliyah,Irelia,Jinx,Thresh
 Challenger,Defeat,br,2019-06-18,Mordekaiser,Kindred,Vladimir,Vayne,Janna,Kennen,Xin Zhao,Zed,Xayah,Karma
@@ -4946,288 +4711,32 @@ Challenger,Defeat,br,2019-06-17,Renekton,Evelynn,Aurelion Sol,Miss Fortune,Nauti
 Challenger,Defeat,br,2019-06-16,Akali,Lee Sin,Talon,Vayne,Braum,Pyke,Elise,Zed,Jinx,Thresh
 Challenger,Defeat,br,2019-06-17,Irelia,Rengar,Fizz,Draven,Lux,Vayne,Taliyah,Talon,Jinx,Nautilus
 Challenger,Defeat,br,2019-06-16,Riven,Lee Sin,Diana,Xayah,Morgana,Yasuo,Gragas,Kassadin,Jhin,Pyke
-Grandmaster,Defeat,oce,2019-06-18,Fiora,Evelynn,Akali,Sivir,Alistar,Lee Sin,Taliyah,Irelia,Ezreal,Yuumi
 Challenger,Victory,br,2019-06-16,Karma,Twitch,Janna,Varus,Lulu,Yorick,Rengar,Zed,Miss Fortune,Lux
-Grandmaster,Defeat,oce,2019-06-18,Akali,Sejuani,Pantheon,Sivir,Thresh,Camille,Aatrox,Kennen,Caitlyn,Yuumi
 Challenger,Defeat,br,2019-06-14,Jax,Lee Sin,Camille,Caitlyn,Morgana,Renekton,Elise,Ahri,Kai'Sa,Fiddlesticks
 Challenger,Defeat,br,2019-06-17,Katarina,Rek'Sai,Syndra,Lucian,Leona,Aatrox,Taliyah,Yasuo,Xayah,Rakan
 Challenger,Defeat,br,2019-06-19,Riven,Lee Sin,Yasuo,Sivir,Thresh,Renekton,Shaco,Veigar,Ezreal,Fiddlesticks
 Challenger,Victory,br,2019-06-13,Riven,Gragas,Yasuo,Lucian,Yuumi,Aatrox,Shaco,Ahri,Sivir,Pyke
 Challenger,Victory,br,2019-06-15,Rengar,Lee Sin,Renekton,Draven,Pyke,Irelia,Sejuani,Rumble,Kai'Sa,Lulu
 Challenger,Defeat,br,2019-06-16,Aatrox,Zed,LeBlanc,Yasuo,Tahm Kench,Pyke,Kha'Zix,Karthus,Lucian,Shaco
-Grandmaster,Defeat,oce,2019-06-17,Pyke,Nocturne,Orianna,Ezreal,Alistar,Camille,Taliyah,Neeko,Sivir,Zac
-Grandmaster,Defeat,oce,2019-06-17,Volibear,Taliyah,Yasuo,Kai'Sa,Morgana,Jayce,Nunu & Willump,Azir,Ezreal,Thresh
 Challenger,Victory,br,2019-06-13,Jax,Elise,Ryze,Draven,Pyke,Camille,Lee Sin,Akali,Kai'Sa,Karma
-Grandmaster,Defeat,oce,2019-06-17,Renekton,Elise,Corki,Jinx,Morgana,Mordekaiser,Aatrox,Neeko,Miss Fortune,Karma
-Grandmaster,Defeat,oce,2019-06-17,Tryndamere,Graves,Karma,Caitlyn,Sona,Renekton,Lee Sin,Yasuo,Xayah,Rakan
 Challenger,Defeat,br,2019-06-13,Irelia,Rek'Sai,Lissandra,Ashe,Karma,Renekton,Lee Sin,Akali,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-17,Darius,Rengar,Irelia,Ezreal,Galio,Camille,Aatrox,Akali,Kai'Sa,Lux
-Grandmaster,Victory,oce,2019-06-19,Kennen,Gragas,Azir,Vayne,Soraka,Riven,Sejuani,Twisted Fate,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Irelia,Rengar,Fizz,Ezreal,Leona,Camille,Evelynn,Corki,Xayah,Nautilus
 Challenger,Defeat,br,2019-06-19,Camille,Kha'Zix,Ryze,Sivir,Fiddlesticks,Irelia,Elise,Draven,Mordekaiser,Alistar
 Challenger,Defeat,br,2019-06-13,Mordekaiser,Kha'Zix,Riven,Vayne,Yuumi,Swain,Sejuani,Camille,Graves,Janna
-Grandmaster,Victory,oce,2019-06-19,Vladimir,Rek'Sai,Neeko,Ezreal,Sona,Karma,Rengar,Renekton,Zoe,Nami
-Grandmaster,Defeat,oce,2019-06-17,Irelia,Taliyah,Camille,Sivir,Lux,Jax,Kindred,Ekko,Ezreal,Tahm Kench
-Grandmaster,Victory,oce,2019-06-18,Pyke,Zac,Cassiopeia,Kai'Sa,Karma,Urgot,Kayn,Neeko,Xayah,Lulu
-Grandmaster,Victory,oce,2019-06-16,Neeko,Lee Sin,Aatrox,Ezreal,Lux,Irelia,Sejuani,Camille,Xayah,Janna
 Challenger,Victory,br,2019-06-19,Akali,Riven,Kassadin,Caitlyn,Karma,Jax,Elise,Zed,Ezreal,Soraka
 Challenger,Defeat,br,2019-06-13,Urgot,Jarvan IV,Graves,Tristana,Karma,Mordekaiser,Sejuani,Ekko,Vayne,Janna
-Grandmaster,Defeat,oce,2019-06-19,Sion,Nidalee,Azir,Sivir,Lux,Karma,Taliyah,Yasuo,Xayah,Rakan
 Challenger,Defeat,br,2019-06-18,Mordekaiser,Lee Sin,Jayce,Xayah,Lux,Riven,Jax,Twisted Fate,Lucian,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Malphite,Gragas,Aatrox,Xayah,Rakan,Darius,Nocturne,Azir,Lucian,Karma
-Grandmaster,Victory,oce,2019-06-18,Ryze,Rek'Sai,Yasuo,Ashe,Lux,Pyke,Kindred,Sylas,Ezreal,Blitzcrank
-Grandmaster,Victory,oce,2019-06-18,Karma,Nunu & Willump,Ryze,Xayah,Zilean,Mordekaiser,Kindred,Morgana,Sivir,Bard
-Grandmaster,Defeat,oce,2019-06-16,Renekton,Gragas,LeBlanc,Miss Fortune,Lux,Irelia,Elise,Aatrox,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Gangplank,Kindred,Syndra,Vayne,Lux,Karma,Nunu & Willump,Anivia,Xayah,Rakan
 Challenger,Defeat,br,2019-06-19,Fiora,Karthus,Katarina,Lucian,Blitzcrank,Riven,Graves,Ahri,Ezreal,Nautilus
-Grandmaster,Victory,oce,2019-06-17,Ornn,Rengar,Orianna,Kai'Sa,Lulu,Renekton,Graves,Heimerdinger,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-16,Riven,Zac,Twisted Fate,Xayah,Brand,Mordekaiser,Olaf,Neeko,Kai'Sa,Lux
-Grandmaster,Defeat,oce,2019-06-18,Pantheon,Kayn,Akali,Tristana,Thresh,Vladimir,Lee Sin,Zed,Xayah,Morgana
 Challenger,Defeat,br,2019-06-19,Olaf,Elise,Karma,Sivir,Janna,Renekton,Lee Sin,Syndra,Ezreal,Pyke
-Grandmaster,Defeat,oce,2019-06-17,Sion,Karthus,Vladimir,Draven,Yuumi,Renekton,Xin Zhao,Zoe,Ezreal,Lux
 Challenger,Defeat,br,2019-06-17,Irelia,Udyr,Twisted Fate,Ashe,Soraka,Sylas,Twitch,Ryze,Draven,Thresh
-Grandmaster,Defeat,oce,2019-06-18,Camille,Taliyah,Ryze,Xayah,Nautilus,Jax,Pantheon,Heimerdinger,Kai'Sa,Morgana
-Grandmaster,Defeat,oce,2019-06-16,Fiora,Olaf,Mordekaiser,Xayah,Thresh,Camille,Sejuani,Jax,Kai'Sa,Galio
-Grandmaster,Victory,oce,2019-06-18,Hecarim,Jarvan IV,Malzahar,Kai'Sa,Lulu,Ornn,Rek'Sai,Irelia,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Pyke,Kayn,Corki,Ezreal,Lux,Aatrox,Rengar,Ryze,Ashe,Zyra
 Challenger,Defeat,br,2019-06-17,Ornn,Mordekaiser,Karma,Sivir,Nautilus,Ryze,Rengar,Sylas,Kai'Sa,Zilean
-Grandmaster,Victory,oce,2019-06-18,Kennen,Hecarim,Vladimir,Kai'Sa,Vel'Koz,Riven,Evelynn,Talon,Ashe,Lux
-Grandmaster,Victory,oce,2019-06-18,Vladimir,Sejuani,Irelia,Ezreal,Rakan,Jax,Sylas,Akali,Vayne,Taric
-Grandmaster,Victory,oce,2019-06-16,Akali,Rengar,Irelia,Lucian,Thresh,Camille,Elise,Aatrox,Ezreal,Yuumi
 Challenger,Defeat,br,2019-06-17,Gangplank,Xin Zhao,Syndra,Sivir,Soraka,Jayce,Udyr,Sylas,Yasuo,Braum
-Grandmaster,Defeat,oce,2019-06-15,Aatrox,Elise,Vladimir,Ashe,Karma,Gangplank,Kindred,Zed,Kai'Sa,Janna
-Grandmaster,Victory,oce,2019-06-18,Dr. Mundo,Kayn,Corki,Tristana,Yuumi,Jax,Sylas,Neeko,Yasuo,Rakan
-Grandmaster,Defeat,oce,2019-06-16,Zilean,Rek'Sai,Taliyah,Sivir,Lux,Aatrox,Kha'Zix,Talon,Xayah,Rakan
-Grandmaster,Victory,oce,2019-06-15,Shen,Lee Sin,Taliyah,Xayah,Lux,Kayle,Sejuani,Aatrox,Ezreal,Braum
-Grandmaster,Defeat,oce,2019-06-16,Vladimir,Sejuani,Ryze,Lucian,Lux,Camille,Kha'Zix,Karma,Xayah,Rakan
-Grandmaster,Victory,oce,2019-06-15,Kled,Kayn,Ahri,Xayah,Galio,Pyke,Lee Sin,Lissandra,Lucian,Alistar
-Grandmaster,Victory,oce,2019-06-17,Renekton,Lee Sin,Corki,Yasuo,Yuumi,Karma,Sejuani,Twisted Fate,Ezreal,Alistar
-Grandmaster,Victory,oce,2019-06-16,Jayce,Mordekaiser,Kassadin,Sivir,Blitzcrank,Zoe,Xin Zhao,Renekton,Ezreal,Lux
-Grandmaster,Defeat,oce,2019-06-11,Jax,Sejuani,Yasuo,Xayah,Nami,Fiora,Aatrox,Twisted Fate,Kai'Sa,Galio
-Grandmaster,Victory,oce,2019-06-17,Pyke,Evelynn,Camille,Ezreal,Karma,Rumble,Pantheon,Fizz,Sivir,Lux
-Grandmaster,Victory,oce,2019-06-15,Jax,Ivern,Orianna,Jinx,Nautilus,Illaoi,Kayn,Talon,Kai'Sa,Lux
-Grandmaster,Victory,oce,2019-06-17,Urgot,Kha'Zix,Irelia,Kai'Sa,Karma,Aatrox,Nunu & Willump,Vladimir,Taliyah,Alistar
-Grandmaster,Defeat,oce,2019-06-19,Darius,Zac,Zed,Sivir,Sona,Karma,Gragas,Zoe,Xayah,Thresh
-Grandmaster,Victory,oce,2019-06-15,Jax,Kindred,Zed,Kai'Sa,Karma,Irelia,Hecarim,Darius,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-15,Vladimir,Lee Sin,Talon,Kai'Sa,Nami,Karma,Xin Zhao,Irelia,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-19,Camille,Evelynn,Irelia,Sivir,Lux,Twisted Fate,Shaco,Aatrox,Caitlyn,Soraka
-Grandmaster,Defeat,oce,2019-06-15,Tahm Kench,Zac,Taliyah,Sivir,Zyra,Kennen,Rengar,Corki,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-14,Zac,Rek'Sai,LeBlanc,Ezreal,Lux,Rumble,Aatrox,Irelia,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-19,Tryndamere,Ivern,Neeko,Tristana,Nami,Camille,Evelynn,Aatrox,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-15,Pyke,Xin Zhao,Lissandra,Lucian,Braum,Pantheon,Rengar,Fizz,Ezreal,Morgana
-Grandmaster,Victory,oce,2019-06-13,Ryze,Xin Zhao,Corki,Lucian,Lulu,Aatrox,Taliyah,Zed,Sivir,Karma
-Grandmaster,Defeat,oce,2019-06-19,Malphite,Kindred,Talon,Draven,Janna,Neeko,Nunu & Willump,Zoe,Ezreal,Karma
-Grandmaster,Defeat,oce,2019-06-19,Pantheon,Hecarim,Ryze,Ezreal,Karma,Camille,Jarvan IV,Akali,Sivir,Sona
-Grandmaster,Victory,oce,2019-06-19,Tryndamere,Sejuani,Taliyah,Xayah,Yuumi,Camille,Kayn,Heimerdinger,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-18,Karma,Karthus,Ekko,Sivir,Nautilus,Irelia,Elise,Yasuo,Ezreal,Zilean
-Grandmaster,Victory,oce,2019-06-19,Irelia,Taliyah,Yasuo,Ezreal,Galio,Riven,Lee Sin,Vladimir,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-18,Riven,Kha'Zix,LeBlanc,Sivir,Karma,Ryze,Kindred,Aatrox,Ezreal,Lux
-Grandmaster,Defeat,oce,2019-06-15,Irelia,Kha'Zix,Taliyah,Kai'Sa,Karma,Tryndamere,Elise,Nocturne,Ezreal,Soraka
-Grandmaster,Defeat,oce,2019-06-19,Shen,Lee Sin,Orianna,Ezreal,Lux,Gangplank,Kha'Zix,Ryze,Cassiopeia,Morgana
-Grandmaster,Victory,oce,2019-06-18,Kennen,Aatrox,Azir,Lucian,Thresh,Karma,Taliyah,Kassadin,Xayah,Rakan
-Grandmaster,Victory,oce,2019-06-18,Camille,Lee Sin,Akali,Ezreal,Karma,Renekton,Xin Zhao,Neeko,Sivir,Thresh
-Grandmaster,Victory,oce,2019-06-18,Aatrox,Taliyah,Fizz,Sivir,Blitzcrank,Camille,Kha'Zix,Azir,Ezreal,Sona
-Grandmaster,Victory,oce,2019-06-18,Olaf,Elise,Akali,Sivir,Karma,Riven,Kindred,Taliyah,Lucian,Thresh
-Grandmaster,Victory,oce,2019-06-18,Kayle,Lee Sin,Akali,Jhin,Yuumi,Neeko,Rek'Sai,Yasuo,Varus,Lux
-Grandmaster,Defeat,oce,2019-06-18,Gangplank,Sejuani,Fizz,Xayah,Rakan,Ryze,Kindred,Akali,Sivir,Karma
-Grandmaster,Defeat,oce,2019-06-18,Gangplank,Evelynn,Lissandra,Ezreal,Braum,Fizz,Kha'Zix,Irelia,Sivir,Pyke
-Grandmaster,Defeat,oce,2019-06-18,Neeko,Kha'Zix,Annie,Kai'Sa,Pyke,Akali,Lee Sin,Ryze,Sivir,Karma
-Grandmaster,Defeat,oce,2019-06-19,Jax,Sejuani,Azir,Sivir,Gragas,Karma,Jarvan IV,Katarina,Kai'Sa,Lulu
-Grandmaster,Victory,oce,2019-06-15,Akali,Nocturne,Ekko,Ezreal,Yuumi,Jayce,Kha'Zix,Corki,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-17,Jayce,Kayn,Lissandra,Caitlyn,Lux,Aatrox,Elise,Orianna,Twitch,Nautilus
-Grandmaster,Defeat,oce,2019-06-15,Jayce,Kayn,Azir,Ezreal,Lux,Vladimir,Hecarim,Aatrox,Tristana,Karma
-Grandmaster,Defeat,oce,2019-06-19,Mordekaiser,Lee Sin,Irelia,Xayah,Pyke,Neeko,Kha'Zix,Azir,Jinx,Lux
-Grandmaster,Defeat,oce,2019-06-17,Yasuo,Rammus,Kassadin,Ezreal,Thresh,Jax,Sejuani,Zoe,Twitch,Sona
-Grandmaster,Defeat,oce,2019-06-14,Gangplank,Aatrox,Katarina,Twitch,Sona,Fiora,Lee Sin,LeBlanc,Kai'Sa,Pyke
-Grandmaster,Defeat,oce,2019-06-19,Sylas,Kindred,Kassadin,Vayne,Nautilus,Renekton,Hecarim,Neeko,Caitlyn,Morgana
-Grandmaster,Defeat,oce,2019-06-16,Jax,Taliyah,Twisted Fate,Ezreal,Jarvan IV,Vladimir,Olaf,Karma,Lucian,Braum
-Grandmaster,Victory,oce,2019-06-14,Kassadin,Hecarim,Gangplank,Sivir,Janna,Rumble,Sejuani,Nocturne,Kai'Sa,Nami
-Grandmaster,Defeat,oce,2019-06-17,Camille,Master Yi,Bard,Ezreal,Taric,Aatrox,Taliyah,Jayce,Twitch,Karma
-Grandmaster,Defeat,oce,2019-06-19,Riven,Taliyah,Talon,Kai'Sa,Thresh,Urgot,Evelynn,Zed,Sivir,Karma
-Grandmaster,Defeat,oce,2019-06-10,Fiora,Sejuani,Camille,Ezreal,Nami,Gangplank,Olaf,Morgana,Xayah,Lux
-Grandmaster,Victory,oce,2019-06-14,Riven,Kayn,Karma,Lucian,Thresh,Tahm Kench,Lee Sin,Ekko,Caitlyn,Lux
-Grandmaster,Defeat,oce,2019-06-17,Karma,Olaf,Fizz,Xayah,Yuumi,Camille,Lee Sin,Neeko,Twitch,Nami
-Grandmaster,Defeat,oce,2019-06-18,Renekton,Nidalee,Veigar,Lucian,Sona,Akali,Zac,Azir,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-10,Jayce,Skarner,Morgana,Ezreal,Lux,Irelia,Lee Sin,Pyke,Sivir,Yuumi
-Grandmaster,Victory,oce,2019-06-17,Mordekaiser,Hecarim,Akali,Twitch,Fiddlesticks,Renekton,Taliyah,Zed,Xayah,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Jax,Sejuani,Taliyah,Jhin,Galio,Darius,Zac,Corki,Lucian,Morgana
-Grandmaster,Defeat,oce,2019-06-18,Kled,Hecarim,Vladimir,Lucian,Alistar,Akali,Kha'Zix,Ryze,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-10,Aatrox,Gragas,Camille,Ezreal,Lux,Jax,Kindred,Lissandra,Kai'Sa,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Rumble,Skarner,Yasuo,Lucian,Karma,Irelia,Kindred,LeBlanc,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Urgot,Kha'Zix,Mordekaiser,Ezreal,Nautilus,Renekton,Sejuani,Veigar,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-10,Vladimir,Skarner,Zed,Sivir,Morgana,Lux,Hecarim,Neeko,Riven,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Riven,Lee Sin,Zed,Ezreal,Vel'Koz,Kled,Rek'Sai,Mordekaiser,Varus,Karma
-Grandmaster,Defeat,oce,2019-06-18,Irelia,Amumu,Neeko,Kai'Sa,Thresh,Renekton,Karthus,Zoe,Pyke,Karma
-Grandmaster,Defeat,oce,2019-06-10,Camille,Pantheon,Corki,Syndra,Pyke,Vladimir,Skarner,Zed,Caitlyn,Alistar
-Grandmaster,Defeat,oce,2019-06-18,Irelia,Kha'Zix,Zed,Cassiopeia,Thresh,Mordekaiser,Sylas,Pyke,Ezreal,Lux
-Grandmaster,Defeat,oce,2019-06-10,Jayce,Skarner,Syndra,Draven,Nami,Darius,Kayn,Corki,Kai'Sa,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Dr. Mundo,Lee Sin,Azir,Sivir,Lux,Mordekaiser,Jarvan IV,Taliyah,Ezreal,Yuumi
-Grandmaster,Victory,oce,2019-06-18,Mordekaiser,Kindred,LeBlanc,Kai'Sa,Yuumi,Karma,Taliyah,Katarina,Caitlyn,Thresh
-Grandmaster,Defeat,oce,2019-06-18,Hecarim,Rek'Sai,LeBlanc,Caitlyn,Lux,Karma,Lee Sin,Pyke,Vayne,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Darius,Graves,Malzahar,Jhin,Yuumi,Renekton,Kindred,Akali,Tristana,Lux
-Grandmaster,Victory,oce,2019-06-18,Kennen,Rek'Sai,Syndra,Ezreal,Vel'Koz,Karma,Kindred,Ryze,Kai'Sa,Yuumi
-Grandmaster,Defeat,oce,2019-06-19,Olaf,Kindred,Viktor,Ezreal,Yuumi,Sivir,Gragas,Taliyah,Mordekaiser,Karma
-Grandmaster,Defeat,oce,2019-06-18,Tryndamere,Sejuani,Talon,Kai'Sa,Fiddlesticks,Tahm Kench,Hecarim,Camille,Xayah,Morgana
-Grandmaster,Defeat,oce,2019-06-17,Fiora,Skarner,Neeko,Sivir,Lux,Kled,Karthus,Ryze,Lucian,Nami
-Grandmaster,Defeat,oce,2019-06-16,Camille,Hecarim,Mordekaiser,Sivir,Rakan,Urgot,Elise,Fizz,Karma,Yuumi
-Grandmaster,Victory,oce,2019-06-15,Riven,Rek'Sai,Aatrox,Kai'Sa,Morgana,Ornn,Elise,Yasuo,Jhin,Lux
-Grandmaster,Defeat,oce,2019-06-19,Neeko,Lee Sin,Xerath,Xayah,Rakan,Darius,Gragas,Taliyah,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Irelia,Sejuani,Mordekaiser,Jhin,Lux,Fiora,Lee Sin,Xerath,Xayah,Fiddlesticks
-Grandmaster,Victory,oce,2019-06-17,Mordekaiser,Lee Sin,Ekko,Sivir,Thresh,Renekton,Kha'Zix,Veigar,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Rengar,Elise,Lissandra,Lucian,Lux,Camille,Nidalee,Fizz,Karma,Pyke
-Grandmaster,Defeat,oce,2019-06-15,Karma,Evelynn,Katarina,Kai'Sa,Morgana,Jax,Rek'Sai,Yasuo,Twisted Fate,Lux
-Grandmaster,Defeat,oce,2019-06-19,Jax,Lee Sin,Irelia,Sivir,Yuumi,Jayce,Rek'Sai,Talon,Cassiopeia,Soraka
-Grandmaster,Victory,oce,2019-06-19,Irelia,Sejuani,Lux,Xayah,Nautilus,Olaf,Kayn,Karthus,Twitch,Lulu
-Grandmaster,Victory,oce,2019-06-17,Rumble,Kindred,LeBlanc,Caitlyn,Karma,Darius,Pantheon,Fizz,Kai'Sa,Blitzcrank
-Grandmaster,Defeat,oce,2019-06-16,Mordekaiser,Rengar,Camille,Sivir,Lux,Renekton,Rek'Sai,Fizz,Karma,Yuumi
-Grandmaster,Defeat,oce,2019-06-19,Irelia,Elise,Aatrox,Caitlyn,Lux,Camille,Hecarim,Diana,Ezreal,Pyke
-Grandmaster,Defeat,oce,2019-06-14,Gangplank,Rengar,Sylas,Ezreal,Lux,Tahm Kench,Rek'Sai,Akali,Xayah,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-19,Tryndamere,Nunu & Willump,Vladimir,Draven,Yuumi,Renekton,Kayn,Zoe,Sivir,Rakan
-Grandmaster,Defeat,oce,2019-06-16,Taric,Master Yi,Teemo,Sivir,Lulu,Jax,Rek'Sai,Sylas,Pyke,Yuumi
-Grandmaster,Defeat,oce,2019-06-19,Mordekaiser,Rek'Sai,Yasuo,Ezreal,Janna,Irelia,Kindred,Ekko,Vayne,Yuumi
-Grandmaster,Victory,oce,2019-06-16,Kayle,Jarvan IV,Azir,Xayah,Thresh,Cho'Gath,Pantheon,Fizz,Lucian,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Tahm Kench,Camille,Syndra,Sivir,Fiddlesticks,Morgana,Kindred,Irelia,Karma,Yuumi
-Grandmaster,Defeat,oce,2019-06-19,Camille,Kha'Zix,Heimerdinger,Ashe,Karma,Pantheon,Kayn,Zoe,Kai'Sa,Nami
-Grandmaster,Defeat,oce,2019-06-19,Jax,Skarner,Rumble,Kai'Sa,Rakan,Ryze,Kindred,Yasuo,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Riven,Evelynn,Pyke,Sivir,Lux,Irelia,Vi,LeBlanc,Xayah,Rakan
-Grandmaster,Victory,oce,2019-06-15,Vladimir,Lee Sin,Orianna,Ezreal,Janna,Pantheon,Zac,Zoe,Miss Fortune,Lux
-Grandmaster,Defeat,oce,2019-06-19,Camille,Shaco,Pantheon,Kai'Sa,Nami,Jax,Evelynn,Zoe,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Akali,Skarner,Ahri,Ezreal,Lux,Riven,Elise,LeBlanc,Kai'Sa,Thresh
-Grandmaster,Defeat,oce,2019-06-14,Camille,Taliyah,Talon,Ezreal,Lux,Gangplank,Lee Sin,Ryze,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-17,Karma,Kayn,Mordekaiser,Kai'Sa,Lux,Camille,Elise,Corki,Ezreal,Thresh
-Grandmaster,Defeat,oce,2019-06-16,Irelia,Sejuani,Lux,Sivir,Vel'Koz,Jax,Evelynn,Aurelion Sol,Xayah,Nautilus
-Grandmaster,Defeat,oce,2019-06-17,Tahm Kench,Evelynn,Corki,Caitlyn,Lux,Karma,Kindred,Neeko,Sivir,Morgana
-Grandmaster,Defeat,oce,2019-06-13,Fiora,Zac,Azir,Sivir,Lux,Camille,Gragas,Ryze,Kai'Sa,Alistar
-Grandmaster,Defeat,oce,2019-06-17,Aatrox,Nidalee,Ryze,Xayah,Taric,Karma,Evelynn,Zed,Kai'Sa,Nautilus
-Grandmaster,Victory,oce,2019-06-12,Pantheon,Rek'Sai,Sylas,Xayah,Lux,Irelia,Nidalee,Zed,Taric,Sona
-Grandmaster,Defeat,oce,2019-06-14,Fiora,Lee Sin,Taliyah,Sivir,Nautilus,Viktor,Olaf,Irelia,Taric,Sona
-Grandmaster,Defeat,oce,2019-06-14,Yorick,Olaf,Akali,Kai'Sa,Lux,Jax,Lee Sin,Taliyah,Lucian,Blitzcrank
-Grandmaster,Defeat,oce,2019-06-19,Riven,Skarner,Anivia,Pyke,Lux,Camille,Sejuani,Jax,Xayah,Morgana
-Grandmaster,Defeat,oce,2019-06-16,Riven,Sejuani,Zoe,Ezreal,Yuumi,Fiora,Kindred,Lissandra,Corki,Soraka
-Grandmaster,Defeat,oce,2019-06-19,Irelia,Graves,Kassadin,Sivir,Karma,Jax,Kindred,Xerath,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-15,Jax,Kha'Zix,Zoe,Twitch,Xerath,Karma,Kindred,Orianna,Kai'Sa,Nautilus
-Grandmaster,Defeat,oce,2019-06-14,Sylas,Lee Sin,Zed,Vayne,Janna,Kennen,Skarner,Vladimir,Sivir,Yuumi
-Grandmaster,Victory,oce,2019-06-14,Rumble,Kindred,Aatrox,Sivir,Nautilus,Karma,Lee Sin,Zoe,Tristana,Pyke
-Grandmaster,Defeat,oce,2019-06-13,Mordekaiser,Lee Sin,Irelia,Kai'Sa,Morgana,Neeko,Sejuani,Syndra,Xayah,Pyke
-Grandmaster,Victory,oce,2019-06-13,Neeko,Kindred,Zed,Sivir,Sona,Irelia,Jarvan IV,Pyke,Xayah,Lux
-Grandmaster,Defeat,oce,2019-06-11,Jax,Gragas,LeBlanc,Lucian,Alistar,Riven,Vi,Sylas,Yasuo,Lux
-Grandmaster,Defeat,oce,2019-06-12,Neeko,Hecarim,Ryze,Ezreal,Nami,Camille,Jarvan IV,Lissandra,Kai'Sa,Lux
-Grandmaster,Defeat,oce,2019-06-11,Aatrox,Rek'Sai,Zed,Kai'Sa,Morgana,Jax,Kindred,Corki,Lucian,Thresh
-Grandmaster,Victory,oce,2019-06-11,Tahm Kench,Kindred,Azir,Miss Fortune,Sona,Jax,Lee Sin,Zoe,Jinx,Thresh
-Grandmaster,Defeat,oce,2019-06-18,Riven,Kayn,LeBlanc,Ezreal,Karma,Shen,Elise,Zoe,Twitch,Lulu
-Grandmaster,Defeat,oce,2019-06-10,Jax,Rammus,Fizz,Kai'Sa,Thresh,Tahm Kench,Kindred,Lissandra,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Riven,Karthus,Viktor,Kai'Sa,Nautilus,Cho'Gath,Kayn,Yasuo,Caitlyn,Morgana
-Grandmaster,Victory,oce,2019-06-09,Sylas,Jarvan IV,Lissandra,Syndra,Yuumi,Irelia,Rammus,Zilean,Kai'Sa,Pyke
-Grandmaster,Defeat,oce,2019-06-19,Irelia,Graves,Zoe,Kai'Sa,Karma,Jax,Elise,Yasuo,Ezreal,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Tahm Kench,Kayn,Irelia,Vayne,Pyke,Karma,Elise,Anivia,Draven,Morgana
-Grandmaster,Defeat,oce,2019-06-17,Jax,Master Yi,Orianna,Ezreal,Yuumi,Pantheon,Kindred,Ahri,Xayah,Nautilus
-Grandmaster,Defeat,oce,2019-06-17,Zac,Lee Sin,Talon,Lucian,Karma,Riven,Xin Zhao,Ryze,Sivir,Sona
-Grandmaster,Defeat,oce,2019-06-19,Mordekaiser,Zac,Zed,Ezreal,Yuumi,Renekton,Graves,Veigar,Xayah,Rakan
-Grandmaster,Defeat,oce,2019-06-17,Neeko,Camille,Akali,Miss Fortune,Nautilus,Darius,Kindred,Yasuo,Caitlyn,Yuumi
-Grandmaster,Defeat,oce,2019-06-17,Kennen,Lee Sin,Zoe,Kai'Sa,Lux,Zilean,Rek'Sai,Yasuo,Twitch,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-17,Tahm Kench,Lee Sin,Aatrox,Sivir,Yuumi,Irelia,Evelynn,Yasuo,Xayah,Gragas
-Grandmaster,Defeat,oce,2019-06-17,Pantheon,Nidalee,Zed,Xayah,Karma,Jarvan IV,Elise,Azir,Draven,Lulu
-Grandmaster,Defeat,oce,2019-06-18,Camille,Zac,Taliyah,Xayah,Rakan,Jax,Rek'Sai,Ekko,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Veigar,Kayn,Karma,Sivir,Lux,Riven,Nidalee,Kassadin,Xayah,Yuumi
-Grandmaster,Defeat,oce,2019-06-16,Aatrox,Skarner,Zoe,Sivir,Lux,Zilean,Taliyah,Zed,Ezreal,Morgana
-Grandmaster,Defeat,oce,2019-06-15,Tahm Kench,Rengar,Akali,Ezreal,Thresh,Karma,Nidalee,Yasuo,Xayah,Lux
-Grandmaster,Victory,oce,2019-06-17,Mordekaiser,Aatrox,Azir,Sona,Taric,Riven,Sejuani,Syndra,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-14,Sylas,Kindred,Zoe,Vayne,Karma,Quinn,Nautilus,Mordekaiser,Miss Fortune,Nami
-Grandmaster,Defeat,oce,2019-06-18,Mordekaiser,Rek'Sai,Vladimir,Varus,Karma,Jayce,Rengar,Orianna,Sivir,Lux
-Grandmaster,Victory,oce,2019-06-16,Darius,Elise,Ahri,Sivir,Sona,Camille,Hecarim,Twisted Fate,Kai'Sa,Lux
-Grandmaster,Defeat,oce,2019-06-14,Karthus,Olaf,Kennen,Jinx,Karma,Tahm Kench,Kindred,Xerath,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-14,Riven,Kayn,Lulu,Vayne,Morgana,Neeko,Kindred,Lux,Twitch,Karma
-Grandmaster,Victory,oce,2019-06-14,Neeko,Jarvan IV,Vladimir,Xayah,Karma,Quinn,Lee Sin,Mordekaiser,Sivir,Pyke
-Grandmaster,Defeat,oce,2019-06-18,Gangplank,Shaco,Yasuo,Xayah,Rakan,Aatrox,Rengar,Azir,Lucian,Yuumi
-Grandmaster,Defeat,oce,2019-06-14,Aatrox,Lee Sin,Talon,Sivir,Karma,Camille,Dr. Mundo,Fizz,Jinx,Leona
-Grandmaster,Defeat,oce,2019-06-18,Riven,Shaco,Fizz,Twitch,Pyke,Mordekaiser,Evelynn,Yasuo,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-13,Rengar,Lee Sin,Zoe,Ezreal,Pyke,Aatrox,Elise,Fizz,Caitlyn,Morgana
-Grandmaster,Defeat,oce,2019-06-18,Mordekaiser,Kha'Zix,Lissandra,Ezreal,Brand,Neeko,Sejuani,Yasuo,Jinx,Thresh
-Grandmaster,Defeat,oce,2019-06-12,Renekton,Lee Sin,Viktor,Yasuo,Lulu,Aatrox,Elise,Zed,Ezreal,Pyke
-Grandmaster,Victory,oce,2019-06-17,Irelia,Sejuani,Yasuo,Ezreal,Karma,Aatrox,Lee Sin,Camille,Sona,Tahm Kench
-Grandmaster,Defeat,oce,2019-06-17,Aatrox,Evelynn,Katarina,Lucian,Braum,Riven,Shaco,Ekko,Ezreal,Karma
-Grandmaster,Victory,oce,2019-06-17,Yasuo,Elise,Camille,Kai'Sa,Karma,Irelia,Rek'Sai,Neeko,Tahm Kench,Sona
-Grandmaster,Defeat,oce,2019-06-16,Karma,Shaco,Ahri,Kai'Sa,Sona,Mordekaiser,Nidalee,Aatrox,Vayne,Lux
-Grandmaster,Defeat,oce,2019-06-16,Lucian,Kayn,Mordekaiser,Ezreal,Nami,Sylas,Nunu & Willump,Irelia,Ashe,Thresh
-Grandmaster,Defeat,oce,2019-06-16,Pyke,Rammus,LeBlanc,Kai'Sa,Nautilus,Yasuo,Gragas,Veigar,Sivir,Rakan
-Grandmaster,Defeat,oce,2019-06-18,Tryndamere,Sejuani,Sylas,Sivir,Lux,Aatrox,Kindred,Neeko,Kai'Sa,Karma
-Grandmaster,Defeat,oce,2019-06-19,Tryndamere,Hecarim,Mordekaiser,Caitlyn,Rakan,Veigar,Kha'Zix,Zed,Xayah,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-18,Kennen,Rek'Sai,Kassadin,Lucian,Braum,Karma,Kindred,Annie,Kai'Sa,Lux
-Grandmaster,Defeat,oce,2019-06-18,Yasuo,Nidalee,Mordekaiser,Kai'Sa,Blitzcrank,Pantheon,Elise,Cassiopeia,Jinx,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Irelia,Sejuani,Fizz,Caitlyn,Morgana,Renekton,Skarner,Sion,Kai'Sa,Vel'Koz
-Grandmaster,Victory,oce,2019-06-16,Akali,Sejuani,Irelia,Ezreal,Nami,Jax,Lee Sin,Taliyah,Kai'Sa,Galio
-Grandmaster,Defeat,oce,2019-06-18,Renekton,Nidalee,Corki,Xayah,Rakan,Mordekaiser,Sejuani,Syndra,Ezreal,Lux
-Grandmaster,Victory,oce,2019-06-16,Irelia,Skarner,Aatrox,Vladimir,Karma,Jax,Taliyah,Ryze,Camille,Sona
-Grandmaster,Defeat,oce,2019-06-18,Mordekaiser,Jax,Pyke,Caitlyn,Nami,Riven,Rek'Sai,Ekko,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-18,Camille,Taliyah,Ryze,Xayah,Yuumi,Irelia,Nidalee,Syndra,Kai'Sa,Blitzcrank
-Grandmaster,Victory,oce,2019-06-16,Neeko,Rammus,Yasuo,Kai'Sa,Yuumi,Jax,Nidalee,Zed,Sivir,Nami
-Grandmaster,Defeat,oce,2019-06-15,Tahm Kench,Kindred,Morgana,Kai'Sa,Bard,Renekton,Lee Sin,Vladimir,Twitch,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-18,Jax,Evelynn,Taliyah,Sivir,Lux,Renekton,Kayn,Zoe,Ezreal,Nautilus
-Grandmaster,Defeat,oce,2019-06-18,Gnar,Kha'Zix,Neeko,Kai'Sa,Gragas,Tahm Kench,Lee Sin,Mordekaiser,Ezreal,Karma
-Grandmaster,Defeat,oce,2019-06-15,Neeko,Vi,Pyke,Sivir,Sona,Tahm Kench,Gragas,Taliyah,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-13,Kennen,Skarner,Yasuo,Kai'Sa,Yuumi,Ekko,Rengar,Kled,Caitlyn,Shen
-Grandmaster,Defeat,oce,2019-06-13,Fiora,Wukong,Talon,Ezreal,Braum,Pyke,Evelynn,Pantheon,Karthus,Lux
-Grandmaster,Victory,oce,2019-06-13,Kennen,Lee Sin,Aatrox,Draven,Morgana,Pantheon,Kayn,Lissandra,Sivir,Janna
-Grandmaster,Defeat,oce,2019-06-17,Cho'Gath,Kindred,Corki,Sivir,Yuumi,Aatrox,Olaf,Vladimir,Ezreal,Alistar
-Grandmaster,Defeat,oce,2019-06-13,Renekton,Olaf,Yasuo,Kai'Sa,Lux,Veigar,Kindred,Lissandra,Xayah,Yuumi
-Grandmaster,Victory,oce,2019-06-12,Jax,Karthus,Irelia,Ezreal,Yuumi,Jayce,Elise,Syndra,Sivir,Xerath
-Grandmaster,Defeat,oce,2019-06-13,Veigar,Rengar,Pyke,Ezreal,Karma,Neeko,Lee Sin,Lissandra,Xayah,Sona
-Grandmaster,Defeat,oce,2019-06-12,Irelia,Elise,Azir,Kai'Sa,Nami,Renekton,Lee Sin,Veigar,Vayne,Lux
-Grandmaster,Defeat,oce,2019-06-17,Karma,Sejuani,Ahri,Lucian,Yuumi,Pyke,Hecarim,Corki,Tahm Kench,Sona
-Grandmaster,Defeat,oce,2019-06-13,Vladimir,Jax,Pyke,Lucian,Thresh,Camille,Hecarim,Mordekaiser,Draven,Lux
-Grandmaster,Victory,oce,2019-06-12,Riven,Karthus,Zoe,Kai'Sa,Leona,Irelia,Olaf,Mordekaiser,Lucian,Lux
-Grandmaster,Defeat,oce,2019-06-17,Irelia,Lee Sin,Camille,Jhin,Karma,Gangplank,Rammus,Neeko,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-13,Irelia,Mordekaiser,Anivia,Kai'Sa,Karma,Aatrox,Kayn,Veigar,Sivir,Thresh
-Grandmaster,Victory,oce,2019-06-12,Pantheon,Olaf,Irelia,Lucian,Karma,Jax,Lee Sin,LeBlanc,Sivir,Yuumi
-Grandmaster,Defeat,oce,2019-06-13,Irelia,Rammus,Syndra,Vayne,Sona,Renekton,Lee Sin,Ahri,Sivir,Pyke
-Grandmaster,Victory,oce,2019-06-12,Renekton,Karthus,Akali,Sivir,Yuumi,Ezreal,Kha'Zix,Vladimir,Caitlyn,Nautilus
-Grandmaster,Defeat,oce,2019-06-13,Karma,Kayn,Kennen,Vayne,Sona,Garen,Hecarim,Vladimir,Sivir,Thresh
-Grandmaster,Victory,oce,2019-06-12,Darius,Elise,Akali,Caitlyn,Karma,Jayce,Hecarim,Azir,Sivir,Taric
-Grandmaster,Defeat,oce,2019-06-17,Jayce,Master Yi,Taric,Sivir,Sona,Jax,Rammus,Talon,Caitlyn,Yuumi
-Grandmaster,Defeat,oce,2019-06-11,Irelia,Hecarim,Cassiopeia,Ezreal,Nautilus,Aatrox,Rek'Sai,Sylas,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-18,Warwick,Sejuani,Malzahar,Sivir,Karma,Aatrox,Lee Sin,Yasuo,Xayah,Lux
-Grandmaster,Victory,oce,2019-06-11,Tryndamere,Karthus,Urgot,Sivir,Rakan,Irelia,Kayn,Corki,Xayah,Nautilus
-Grandmaster,Defeat,oce,2019-06-16,Neeko,Gragas,Yasuo,Lucian,Morgana,Mordekaiser,Kindred,Taliyah,Ezreal,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-18,Aatrox,Skarner,Kayle,Xayah,Pyke,Tahm Kench,Camille,Mordekaiser,Ezreal,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-18,Renekton,Rek'Sai,Ryze,Sivir,Braum,Karma,Kindred,Aatrox,Ezreal,Yuumi
-Grandmaster,Defeat,oce,2019-06-18,Warwick,Graves,Aatrox,Ezreal,Yuumi,Karma,Kha'Zix,Riven,Vayne,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-18,Camille,Elise,Pyke,Xayah,Nautilus,Veigar,Kayn,Neeko,Caitlyn,Lux
-Grandmaster,Defeat,oce,2019-06-18,Riven,Kha'Zix,Karthus,Sivir,Lux,Vladimir,Kayn,Karma,Jhin,Blitzcrank
-Grandmaster,Defeat,oce,2019-06-18,Camille,Evelynn,Renekton,Ezreal,Bard,Sion,Jarvan IV,Karma,Kai'Sa,Pyke
-Grandmaster,Defeat,oce,2019-06-10,Pyke,Nunu & Willump,Irelia,Draven,Sona,Vladimir,Zac,Aatrox,Caitlyn,Lux
-Grandmaster,Defeat,oce,2019-06-10,Ryze,Sejuani,Camille,Ezreal,Thresh,Jax,Rek'Sai,Fizz,Vayne,Morgana
-Grandmaster,Victory,oce,2019-06-10,Jax,Vi,Fizz,Ezreal,Yuumi,Riven,Lee Sin,Irelia,Caitlyn,Sona
-Grandmaster,Defeat,oce,2019-06-10,Jax,Lee Sin,Fizz,Caitlyn,Sona,Kennen,Kayn,Talon,Vayne,Thresh
-Grandmaster,Defeat,oce,2019-06-19,Karma,Sejuani,Ryze,Xayah,Thresh,Hecarim,Nidalee,Yasuo,Kai'Sa,Galio
-Grandmaster,Defeat,oce,2019-06-10,Tryndamere,Shyvana,Irelia,Sivir,Yuumi,Zoe,Zac,Pantheon,Vayne,Sona
-Grandmaster,Victory,oce,2019-06-17,Darius,Kindred,Ekko,Sivir,Sona,Karma,Camille,Mordekaiser,Lucian,Braum
-Grandmaster,Defeat,oce,2019-06-15,Darius,Master Yi,Taric,Ezreal,Karma,Renekton,Rek'Sai,Karthus,Lucian,Sona
-Grandmaster,Victory,oce,2019-06-15,Irelia,Jarvan IV,Viktor,Sivir,Morgana,Karthus,Elise,Twisted Fate,Jinx,Karma
-Grandmaster,Defeat,oce,2019-06-15,Riven,Lee Sin,Zoe,Sivir,Yuumi,Jax,Taliyah,Ryze,Ezreal,Karma
-Grandmaster,Defeat,oce,2019-06-19,Pyke,Hecarim,Azir,Sivir,Lux,Urgot,Elise,Mordekaiser,Vayne,Morgana
-Grandmaster,Defeat,oce,2019-06-19,Jayce,Rek'Sai,Ryze,Tristana,Lux,Neeko,Kled,Akali,Kai'Sa,Yuumi
-Grandmaster,Defeat,oce,2019-06-15,Karma,Jarvan IV,Orianna,Sivir,Vel'Koz,Mordekaiser,Kha'Zix,Karthus,Jinx,Rakan
-Grandmaster,Victory,oce,2019-06-17,Fiora,Elise,Vladimir,Ashe,Braum,Karma,Lee Sin,Corki,Sivir,Nami
-Grandmaster,Defeat,oce,2019-06-16,Vladimir,Elise,Camille,Sivir,Thresh,Yasuo,Gragas,Talon,Ryze,Rakan
-Grandmaster,Defeat,oce,2019-06-16,Mordekaiser,Sejuani,Camille,Ezreal,Pyke,Neeko,Jarvan IV,Ryze,Caitlyn,Karma
-Grandmaster,Defeat,oce,2019-06-17,Aatrox,Kindred,Orianna,Ezreal,Yuumi,Camille,Xin Zhao,Anivia,Xayah,Bard
-Grandmaster,Defeat,oce,2019-06-16,Ryze,Skarner,Taliyah,Caitlyn,Karma,Riven,Lee Sin,Corki,Xayah,Veigar
-Grandmaster,Defeat,oce,2019-06-16,Riven,Nidalee,Corki,Draven,Sona,Ryze,Skarner,Zoe,Sivir,Karma
-Grandmaster,Defeat,oce,2019-06-17,Tryndamere,Sejuani,Katarina,Kai'Sa,Pantheon,Riven,Zac,Corki,Sivir,Lux
-Grandmaster,Defeat,oce,2019-06-17,Jayce,Lee Sin,Ahri,Caitlyn,Sona,Tahm Kench,Mordekaiser,Camille,Vayne,Lux
-Grandmaster,Defeat,oce,2019-06-16,Kled,Olaf,Fizz,Kai'Sa,Galio,Aatrox,Elise,Akali,Lucian,Karma
-Grandmaster,Defeat,oce,2019-06-15,Riven,Lee Sin,Irelia,Vladimir,Rakan,Renekton,Xin Zhao,Corki,Lucian,Vel'Koz
-Grandmaster,Defeat,oce,2019-06-16,Aatrox,Lee Sin,Nocturne,Ezreal,Yuumi,Karma,Taliyah,Pyke,Jhin,Lux
-Grandmaster,Defeat,oce,2019-06-16,Riven,Sejuani,Talon,Lucian,Karma,Mordekaiser,Graves,Twisted Fate,Ezreal,Yuumi
 Challenger,Defeat,oce,2019-06-17,Kled,Camille,Irelia,Ezreal,Karma,Riven,Evelynn,Yasuo,Vel'Koz,Morgana
 Challenger,Defeat,oce,2019-06-17,Kled,Rengar,Ryze,Sivir,Brand,Karma,Lee Sin,Akali,Yasuo,Nautilus
 Challenger,Defeat,oce,2019-06-19,Yasuo,Lee Sin,Syndra,Xayah,Thresh,Neeko,Kindred,Mordekaiser,Sivir,Rakan
 Challenger,Defeat,oce,2019-06-19,Camille,Kha'Zix,Irelia,Lucian,Yuumi,Aatrox,Lee Sin,Akali,Xayah,Sona
-Grandmaster,Defeat,oce,2019-06-19,Darius,Rengar,Zoe,Ezreal,Karma,Renekton,Hecarim,Pyke,Kai'Sa,Galio
 Challenger,Defeat,oce,2019-06-19,Gangplank,Kha'Zix,Ryze,Xayah,Rakan,Jax,Amumu,Zilean,Jinx,Lux
 Challenger,Defeat,oce,2019-06-18,Twisted Fate,Lee Sin,Ornn,Miss Fortune,Karma,Illaoi,Rek'Sai,Mordekaiser,Ezreal,Vel'Koz
 Challenger,Defeat,oce,2019-06-16,Neeko,Skarner,Tahm Kench,Kai'Sa,Lux,Yorick,Elise,Camille,Lucian,Blitzcrank
-Grandmaster,Defeat,oce,2019-06-18,Camille,Evelynn,Zed,Caitlyn,Lux,Yorick,Xin Zhao,LeBlanc,Sivir,Yuumi
 Challenger,Defeat,oce,2019-06-15,Jayce,Hecarim,Mordekaiser,Sivir,Pyke,Tryndamere,Skarner,Talon,Xayah,Alistar
 Challenger,Defeat,oce,2019-06-15,Irelia,Evelynn,Pyke,Sivir,Yuumi,Yorick,Sejuani,Lux,Vayne,Jarvan IV
 Challenger,Defeat,oce,2019-06-15,Darius,Sejuani,Camille,Sivir,Yuumi,Yorick,Lee Sin,Taliyah,Xayah,Karma
@@ -5832,63 +5341,40 @@ Challenger,Defeat,euw,2019-06-19,Karma,Rek'Sai,Fizz,Draven,Soraka,Neeko,Hecarim,
 Challenger,Defeat,euw,2019-06-17,Renekton,Hecarim,Ahri,Xayah,Rakan,Irelia,Elise,Pyke,Tristana,Xerath
 Challenger,Defeat,euw,2019-06-18,Riven,Gragas,Camille,Caitlyn,Lux,Gnar,Elise,Vladimir,Jhin,Zilean
 Challenger,Defeat,euw,2019-06-18,Aatrox,Kayn,Orianna,Vayne,Lux,Camille,Taliyah,Ahri,Ezreal,Alistar
-Grandmaster,Defeat,jp,2019-06-19,Gnar,Evelynn,Yasuo,Sivir,Karma,Neeko,Sejuani,Zed,Jinx,Lux
 Challenger,Defeat,euw,2019-06-19,Aatrox,Elise,LeBlanc,Sivir,Pyke,Karthus,Lee Sin,Neeko,Ezreal,Lux
-Grandmaster,Victory,jp,2019-06-16,Mordekaiser,Sejuani,Sylas,Ashe,Thresh,Camille,Karthus,Irelia,Ezreal,Lux
 Challenger,Defeat,euw,2019-06-17,Jayce,Gragas,Ryze,Sivir,Pyke,Rengar,Evelynn,Aatrox,Kai'Sa,Lux
-Grandmaster,Defeat,jp,2019-06-18,Urgot,Fiddlesticks,Ahri,Xayah,Bard,Olaf,Camille,Taliyah,Kai'Sa,Annie
 Challenger,Defeat,euw,2019-06-18,Gnar,Kindred,Zilean,Caitlyn,Karma,Kennen,Taliyah,Irelia,Kai'Sa,Yuumi
 Challenger,Defeat,euw,2019-06-18,Karma,Sylas,Fizz,Twitch,Janna,Neeko,Kha'Zix,LeBlanc,Sona,Tahm Kench
-Grandmaster,Defeat,jp,2019-06-19,Vladimir,Sejuani,Renekton,Jinx,Karma,Ornn,Evelynn,Zed,Sivir,Thresh
 Challenger,Defeat,euw,2019-06-18,Karma,Nidalee,Zed,Ezreal,Yuumi,Gnar,Ryze,Camille,Sivir,Vel'Koz
-Grandmaster,Victory,jp,2019-06-15,Riven,Hecarim,Yasuo,Caitlyn,Karma,Vladimir,Rek'Sai,Zoe,Pantheon,Taliyah
 Challenger,Defeat,euw,2019-06-17,Bard,Lee Sin,Yasuo,Draven,Pyke,Twisted Fate,Elise,Shen,Ezreal,Thresh
-Grandmaster,Defeat,jp,2019-06-18,Darius,Poppy,Vel'Koz,Ezreal,Yuumi,Yorick,Kha'Zix,Ahri,Vayne,Lux
 Challenger,Defeat,euw,2019-06-18,Aatrox,Sejuani,Irelia,Kai'Sa,Sona,Ryze,Elise,Corki,Vayne,Fiddlesticks
 Challenger,Defeat,euw,2019-06-17,Riven,Hecarim,Irelia,Xayah,Rakan,Urgot,Vi,Twisted Fate,Tristana,Morgana
 Challenger,Defeat,euw,2019-06-18,Tahm Kench,Fiddlesticks,Twisted Fate,Caitlyn,Karma,Camille,Kayn,Pyke,Sona,Taric
-Grandmaster,Victory,jp,2019-06-15,Gangplank,Kayn,Katarina,Mordekaiser,Rakan,Darius,Lee Sin,Kassadin,Sivir,Karma
 Challenger,Defeat,euw,2019-06-17,Irelia,Lee Sin,Katarina,Xayah,Rakan,Dr. Mundo,Zac,Vel'Koz,Sivir,Karma
-Grandmaster,Defeat,jp,2019-06-18,Kled,Evelynn,Lissandra,Xayah,Lux,Mordekaiser,Lee Sin,Ahri,Kai'Sa,Nautilus
 Challenger,Defeat,euw,2019-06-18,Gnar,Gragas,Ryze,Lucian,Lux,Aatrox,Elise,Jayce,Sivir,Pyke
 Challenger,Defeat,euw,2019-06-14,Camille,Olaf,Taliyah,Lucian,Yuumi,Fiora,Nocturne,Irelia,Ezreal,Karma
 Challenger,Defeat,euw,2019-06-18,Viktor,Sejuani,Irelia,Sivir,Brand,Sion,Gragas,Yasuo,Ashe,Alistar
 Challenger,Defeat,euw,2019-06-18,Neeko,Skarner,Yasuo,Ezreal,Xerath,Karma,Olaf,Kassadin,Kai'Sa,Gragas
-Grandmaster,Victory,jp,2019-06-15,Gangplank,Kayn,Katarina,Xayah,Rakan,Vladimir,Gragas,Lux,Kai'Sa,Morgana
 Challenger,Defeat,euw,2019-06-17,Gnar,Lee Sin,Cassiopeia,Caitlyn,Morgana,Karma,Olaf,Talon,Ezreal,Rakan
-Grandmaster,Defeat,jp,2019-06-18,Gangplank,Sejuani,Cassiopeia,Xayah,Rakan,Cho'Gath,Jarvan IV,Ahri,Kai'Sa,Alistar
 Challenger,Victory,euw,2019-06-14,Twisted Fate,Hecarim,Rumble,Draven,Yuumi,Corki,Jarvan IV,Karma,Ezreal,Bard
 Challenger,Defeat,euw,2019-06-18,Aatrox,Xin Zhao,Karma,Twitch,Lulu,Irelia,Rengar,Wukong,Neeko,Yuumi
-Grandmaster,Defeat,jp,2019-06-19,Hecarim,Rek'Sai,Lissandra,Jinx,Zyra,Jax,Sejuani,Katarina,Sivir,Fiddlesticks
 Challenger,Defeat,euw,2019-06-19,Gnar,Lee Sin,Katarina,Ezreal,Nautilus,Irelia,Sejuani,Corki,Caitlyn,Lux
-Grandmaster,Defeat,jp,2019-06-15,Cho'Gath,Shaco,Zed,Lucian,Rakan,Gangplank,Kayn,Pyke,Ashe,Braum
 Challenger,Victory,euw,2019-06-17,Rengar,Graves,Talon,Kai'Sa,Lux,Fiora,Shaco,Corki,Sivir,Karma
 Challenger,Defeat,euw,2019-06-14,Mordekaiser,Fiddlesticks,Zoe,Sivir,Yuumi,Jax,Kayn,Kassadin,Xayah,Rakan
 Challenger,Defeat,euw,2019-06-17,Riven,Shaco,Ahri,Sivir,Nami,Taliyah,Rek'Sai,Talon,Ezreal,Lux
-Grandmaster,Defeat,jp,2019-06-19,Neeko,Sejuani,Syndra,Kai'Sa,Gragas,Jax,Nidalee,Ekko,Jinx,Morgana
 Challenger,Victory,euw,2019-06-16,Aatrox,Evelynn,Irelia,Ashe,Karma,Fiora,Sylas,LeBlanc,Kai'Sa,Lux
-Grandmaster,Victory,jp,2019-06-15,Malphite,Gragas,Zed,Sivir,Bard,Kayle,Zac,LeBlanc,Kai'Sa,Nautilus
 Challenger,Victory,euw,2019-06-17,Renekton,Sejuani,Talon,Sivir,Karma,Ryze,Olaf,LeBlanc,Irelia,Taric
-Grandmaster,Defeat,jp,2019-06-18,Garen,Evelynn,Syndra,Kai'Sa,Yuumi,Jax,Zac,Ahri,Ezreal,Janna
 Challenger,Defeat,euw,2019-06-17,Nasus,Lee Sin,Diana,Kalista,Morgana,Vladimir,Rek'Sai,Neeko,Caitlyn,Lux
 Challenger,Defeat,euw,2019-06-18,Kennen,Aatrox,Neeko,Sivir,Sona,Jayce,Lee Sin,Lux,Ezreal,Yuumi
 Challenger,Defeat,euw,2019-06-19,Twisted Fate,Taliyah,Karma,Sivir,Morgana,Fiora,Jarvan IV,Neeko,Xayah,Rakan
-Grandmaster,Victory,jp,2019-06-15,Gangplank,Hecarim,Vladimir,Jinx,Lulu,Sejuani,Master Yi,Ahri,Tristana,Rakan
 Challenger,Defeat,euw,2019-06-16,Aatrox,Elise,Talon,Orianna,Pyke,Irelia,Lee Sin,Zed,Karma,Sona
-Grandmaster,Defeat,jp,2019-06-18,Cho'Gath,Aatrox,Ahri,Lucian,Morgana,Kennen,Sejuani,Corki,Ezreal,Lux
-Grandmaster,Defeat,jp,2019-06-19,Gangplank,Lee Sin,Corki,Ezreal,Lux,Riven,Hecarim,Talon,Kai'Sa,Xerath
 Challenger,Defeat,euw,2019-06-16,Darius,Shaco,Wukong,Sivir,Thresh,Teemo,Kha'Zix,Irelia,Ezreal,Pyke
-Grandmaster,Defeat,jp,2019-06-15,Gangplank,Fiddlesticks,Aurelion Sol,Xayah,Pyke,Riven,Hecarim,Orianna,Sivir,Soraka
 Challenger,Defeat,euw,2019-06-16,Volibear,Rek'Sai,Xerath,Ezreal,Morgana,Kennen,Elise,Talon,Xayah,Thresh
-Grandmaster,Defeat,jp,2019-06-18,Cho'Gath,Nunu & Willump,Kassadin,Twitch,Rakan,Mordekaiser,Graves,Aatrox,Xayah,Karma
-Grandmaster,Defeat,jp,2019-06-19,Tahm Kench,Kayn,Malzahar,Ashe,Pyke,Karma,Sejuani,Yasuo,Sivir,Blitzcrank
 Challenger,Defeat,euw,2019-06-16,Riven,Elise,Pyke,Kai'Sa,Yuumi,Jax,Sejuani,Sylas,Ezreal,Braum
-Grandmaster,Victory,jp,2019-06-15,Urgot,Elise,Corki,Caitlyn,Lux,Fiora,Master Yi,Karthus,Sivir,Zac
 Challenger,Defeat,euw,2019-06-16,Camille,Rammus,Karma,Ashe,Lux,Ryze,Olaf,Talon,Kai'Sa,Janna
 Challenger,Defeat,euw,2019-06-19,Poppy,Nunu & Willump,Pyke,Sivir,Thresh,Gnar,Kindred,Zoe,Xayah,Lulu
 Challenger,Defeat,euw,2019-06-19,Gnar,Kha'Zix,Kassadin,Sivir,Karma,Akali,Kindred,Irelia,Xayah,Lux
 Challenger,Defeat,euw,2019-06-12,Lulu,Mordekaiser,Olaf,Sivir,Blitzcrank,Nocturne,Sejuani,Ryze,Xayah,Lux
-Grandmaster,Defeat,jp,2019-06-15,Ezreal,Zac,Talon,Kai'Sa,Nautilus,Irelia,Shaco,Ahri,Draven,Lux
 Challenger,Defeat,euw,2019-06-14,Tahm Kench,Fiddlesticks,Pantheon,Kai'Sa,Sona,Ryze,Shaco,Talon,Xayah,Yuumi
 Challenger,Defeat,euw,2019-06-14,Renekton,Mordekaiser,Vladimir,Sivir,Zyra,Neeko,Sejuani,Zed,Kalista,Thresh
 Challenger,Defeat,euw,2019-06-19,Jax,Sejuani,Ekko,Sivir,Nautilus,Viktor,Poppy,Irelia,Xayah,Brand
@@ -6076,236 +5562,37 @@ Challenger,Defeat,euw,2019-06-17,Shyvana,Poppy,Syndra,Sivir,Pyke,Gnar,Elise,LeBl
 Challenger,Defeat,euw,2019-06-19,Karma,Hecarim,Ryze,Ezreal,Zyra,Sona,Jarvan IV,Talon,Neeko,Tahm Kench
 Challenger,Defeat,euw,2019-06-16,Kennen,Kha'Zix,Ekko,Vayne,Gragas,Twisted Fate,Jarvan IV,Tahm Kench,Neeko,Yuumi
 Challenger,Defeat,euw,2019-06-17,Kennen,Poppy,Zoe,Ezreal,Rakan,Jax,Skarner,Corki,Xayah,Lux
-Grandmaster,Defeat,jp,2019-06-18,Poppy,Mordekaiser,Kled,Ezreal,Karma,Riven,Taliyah,Talon,Xayah,Rakan
 Challenger,Victory,euw,2019-06-19,Viktor,Poppy,Talon,Yasuo,Alistar,Tahm Kench,Shaco,Aurelion Sol,Sivir,Thresh
 Challenger,Defeat,euw,2019-06-14,Kennen,Nocturne,Cho'Gath,Sivir,Blitzcrank,Twisted Fate,Lee Sin,LeBlanc,Jhin,Karma
-Grandmaster,Victory,jp,2019-05-30,Sylas,Graves,Corki,Tristana,Morgana,Pyke,Jarvan IV,Lissandra,Kai'Sa,Lulu
-Grandmaster,Defeat,jp,2019-06-15,Garen,Lee Sin,Corki,Ezreal,Bard,Aatrox,Rek'Sai,Ahri,Sivir,Lulu
 Challenger,Victory,euw,2019-06-16,Vladimir,Poppy,Diana,Vayne,Thresh,Jax,Elise,Neeko,Ezreal,Xerath
 Challenger,Defeat,euw,2019-06-19,Kennen,Shaco,Pyke,Varus,Vel'Koz,Irelia,Sejuani,Ryze,Draven,Morgana
-Grandmaster,Defeat,jp,2019-05-30,Talon,Sejuani,Irelia,Cassiopeia,Alistar,Aatrox,Jarvan IV,Katarina,Xayah,Rakan
-Grandmaster,Victory,jp,2019-06-15,Kayle,Kha'Zix,Ryze,Karma,Yuumi,Aatrox,Sejuani,Ahri,Kai'Sa,Nautilus
 Challenger,Defeat,euw,2019-06-16,Kennen,Rek'Sai,Veigar,Varus,Braum,Yasuo,Sejuani,Aurelion Sol,Ezreal,Gragas
-Grandmaster,Defeat,jp,2019-06-18,Renekton,Graves,Ekko,Sivir,Alistar,Pantheon,Taliyah,Sylas,Xayah,Rakan
 Challenger,Defeat,euw,2019-06-19,Jax,Kindred,Viktor,Yasuo,Pyke,Irelia,Taliyah,Heimerdinger,Kai'Sa,Lux
 Challenger,Defeat,euw,2019-06-19,Jayce,Mordekaiser,Kassadin,Kai'Sa,Karma,Aatrox,Olaf,Xerath,Ezreal,Lux
 Challenger,Defeat,euw,2019-06-19,Riven,Olaf,Vladimir,Draven,Lulu,Aatrox,Fiddlesticks,Talon,Sivir,Karma
 Challenger,Defeat,euw,2019-06-18,Akali,Elise,Aatrox,Varus,Karma,Irelia,Graves,Diana,Tahm Kench,Sona
-Grandmaster,Victory,jp,2019-05-30,Akali,Jarvan IV,Ryze,Ezreal,Zilean,Tryndamere,Lee Sin,Sylas,Cassiopeia,Thresh
-Grandmaster,Victory,jp,2019-06-15,Jax,Taliyah,Ahri,Twitch,Nami,Mordekaiser,Karthus,Corki,Ezreal,Lux
 Challenger,Defeat,euw,2019-06-16,Jayce,Olaf,Akali,Twitch,Karma,Irelia,Camille,Ryze,Lucian,Nautilus
-Grandmaster,Defeat,jp,2019-06-17,Tryndamere,Evelynn,Malzahar,Kai'Sa,Rakan,Kled,Karthus,LeBlanc,Jhin,Lux
 Challenger,Defeat,euw,2019-06-19,Aatrox,Karthus,Irelia,Xayah,Rakan,Kennen,Lee Sin,Pyke,Lucian,Galio
-Grandmaster,Victory,jp,2019-05-30,Akali,Hecarim,Malzahar,Xayah,Thresh,Sylas,Jarvan IV,Cho'Gath,Lucian,Lux
-Grandmaster,Defeat,jp,2019-06-15,Corki,Lee Sin,Illaoi,Kai'Sa,Karma,Aatrox,Elise,Ahri,Ashe,Yuumi
 Challenger,Defeat,euw,2019-06-16,Pyke,Sejuani,Veigar,Jhin,Nautilus,Kennen,Trundle,Diana,Ezreal,Karma
-Grandmaster,Defeat,jp,2019-06-11,Darius,Sejuani,Vladimir,Ezreal,Rakan,Tahm Kench,Hecarim,Neeko,Jinx,Pyke
-Grandmaster,Defeat,jp,2019-06-13,Kayle,Xin Zhao,Katarina,Tristana,Soraka,Volibear,Elise,Zed,Xayah,Thresh
 Challenger,Defeat,euw,2019-06-19,Jayce,Jarvan IV,Karma,Sivir,Lulu,Riven,Rek'Sai,Neeko,Xayah,Nautilus
-Grandmaster,Victory,jp,2019-06-18,Mordekaiser,Sejuani,Zed,Vayne,Lux,Aatrox,Hecarim,Vel'Koz,Xayah,Karma
 Challenger,Defeat,euw,2019-06-18,Camille,Lee Sin,LeBlanc,Vayne,Pyke,Aatrox,Gragas,Lux,Ezreal,Fiddlesticks
 Challenger,Defeat,euw,2019-06-19,Darius,Taliyah,Twisted Fate,Sivir,Lux,Karma,Jarvan IV,Ryze,Ezreal,Nautilus
 Challenger,Defeat,euw,2019-06-19,Aatrox,Elise,Zoe,Jhin,Nautilus,Karma,Vi,Talon,Miss Fortune,Vel'Koz
-Grandmaster,Victory,jp,2019-05-29,Yorick,Sejuani,Twisted Fate,Xayah,Rakan,Tryndamere,Taliyah,Yasuo,Kai'Sa,Bard
-Grandmaster,Defeat,jp,2019-06-15,Kayle,Pantheon,Corki,Twitch,Yuumi,Malzahar,Udyr,Vel'Koz,Sivir,Nami
 Challenger,Defeat,euw,2019-06-16,Darius,Lee Sin,Vel'Koz,Ezreal,Yuumi,Tahm Kench,Vi,Cassiopeia,Sivir,Sona
-Grandmaster,Defeat,jp,2019-06-11,Fiora,Shaco,Fizz,Ziggs,Braum,Camille,Rek'Sai,Neeko,Ezreal,LeBlanc
-Grandmaster,Defeat,jp,2019-06-16,Gangplank,Hecarim,Anivia,Lucian,Karma,Nasus,Xin Zhao,Kassadin,Sivir,Nautilus
-Grandmaster,Defeat,jp,2019-06-13,Darius,Nidalee,Sylas,Xayah,Pyke,Riven,Neeko,Veigar,Ashe,Lux
 Challenger,Defeat,euw,2019-06-19,Kennen,Vi,Azir,Ezreal,Lux,Camille,Lee Sin,Aatrox,Lucian,Lulu
 Challenger,Defeat,euw,2019-06-18,Irelia,Xin Zhao,Mordekaiser,Kalista,Thresh,Malphite,Kindred,Yasuo,Varus,Lux
-Grandmaster,Victory,jp,2019-05-27,Pantheon,Karthus,Talon,Kai'Sa,Fiddlesticks,Fiora,Lee Sin,Ryze,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-10,Sejuani,Camille,LeBlanc,Kai'Sa,Morgana,Karma,Vi,Ryze,Caitlyn,Bard
-Grandmaster,Victory,jp,2019-06-11,Neeko,Hecarim,Lissandra,Kai'Sa,Pyke,Quinn,Aatrox,Lulu,Ezreal,Rakan
-Grandmaster,Defeat,jp,2019-06-16,Aatrox,Karthus,Ryze,Ezreal,Lux,Tahm Kench,Jarvan IV,Malzahar,Caitlyn,Sona
-Grandmaster,Defeat,jp,2019-06-13,Tryndamere,Jarvan IV,Neeko,Xayah,Rakan,Viktor,Karthus,Zed,Ezreal,Braum
 Challenger,Defeat,euw,2019-06-18,Fiora,Olaf,Syndra,Tristana,Yuumi,Aatrox,Lee Sin,Twisted Fate,Draven,Alistar
 Challenger,Defeat,euw,2019-06-19,Akali,Kha'Zix,Mordekaiser,Kai'Sa,Karma,Riven,Kindred,Talon,Ezreal,Vel'Koz
-Grandmaster,Victory,jp,2019-05-26,Mordekaiser,Jarvan IV,Malzahar,Kai'Sa,Nautilus,Jax,Shyvana,Katarina,Sivir,Pyke
-Grandmaster,Victory,jp,2019-06-10,Gnar,Vi,Zilean,Kai'Sa,Thresh,Darius,Jarvan IV,Zed,Viktor,Nautilus
-Grandmaster,Defeat,jp,2019-06-11,Lulu,Hecarim,Rumble,Kai'Sa,Thresh,Neeko,Zac,Zed,Sivir,Lux
-Grandmaster,Defeat,jp,2019-06-15,Malphite,Elise,Akali,Kai'Sa,Thresh,Aatrox,Sejuani,Tryndamere,Sivir,Lux
-Grandmaster,Defeat,jp,2019-06-13,Tryndamere,Xin Zhao,Ahri,Ryze,Thresh,Poppy,Graves,Neeko,Kai'Sa,Rakan
 Challenger,Defeat,euw,2019-06-19,Orianna,Rengar,Lulu,Sivir,Gragas,Karma,Lee Sin,Pyke,Syndra,Tahm Kench
-Grandmaster,Defeat,jp,2019-06-10,Neeko,Camille,Swain,Ezreal,Zyra,Poppy,Kindred,Zilean,Lucian,Thresh
-Grandmaster,Defeat,jp,2019-06-11,Riven,Xin Zhao,Orianna,Ezreal,Lux,Garen,Hecarim,Neeko,Sivir,Soraka
-Grandmaster,Defeat,jp,2019-06-15,Pyke,Vi,Anivia,Kai'Sa,Morgana,Sion,Xin Zhao,Katarina,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-12,Fiora,Hecarim,Azir,Tristana,Rakan,Irelia,Aatrox,Corki,Kai'Sa,Lulu
 Challenger,Defeat,euw,2019-06-13,Jax,Volibear,Azir,Jinx,Yuumi,Irelia,Hecarim,Talon,Vel'Koz,Karma
 Challenger,Defeat,euw,2019-06-18,Talon,Kindred,Syndra,Sivir,Nautilus,Akali,Lee Sin,Zoe,Vayne,Shen
-Grandmaster,Defeat,jp,2019-06-10,Sejuani,Camille,Aatrox,Kai'Sa,Zyra,Vladimir,Rammus,Ryze,Ashe,Soraka
-Grandmaster,Defeat,jp,2019-06-11,Gnar,Gragas,Irelia,Caitlyn,Nami,Neeko,Pantheon,Sejuani,Xayah,Zyra
-Grandmaster,Defeat,jp,2019-06-06,Maokai,Elise,Xerath,Vayne,Blitzcrank,Irelia,Kha'Zix,LeBlanc,Ashe,Soraka
 Challenger,Defeat,euw,2019-06-18,Zed,Sejuani,Ryze,Xayah,Lux,Camille,Kha'Zix,Jayce,Sivir,Pyke
 Challenger,Victory,euw,2019-06-13,Kled,Sejuani,Zilean,Ezreal,Janna,Poppy,Jarvan IV,Orianna,Caitlyn,Lux
-Grandmaster,Victory,jp,2019-06-10,Nidalee,Hecarim,Corki,Sivir,Yuumi,Kayle,Kayn,Orianna,Ezreal,Zyra
-Grandmaster,Victory,jp,2019-06-07,Aatrox,Master Yi,Katarina,Caitlyn,Thresh,Ryze,Poppy,Yasuo,Ezreal,Taric
-Grandmaster,Defeat,jp,2019-06-06,Irelia,Ekko,Anivia,Ezreal,Nautilus,Maokai,Kindred,Xerath,Twitch,Lulu
-Grandmaster,Defeat,jp,2019-06-11,Kled,Sejuani,Sylas,Yasuo,Nautilus,Camille,Xin Zhao,Ryze,Ezreal,Rakan
-Grandmaster,Defeat,jp,2019-06-18,Poppy,Hecarim,Malzahar,Jinx,Nautilus,Singed,Jax,Talon,Sivir,Yuumi
 Challenger,Defeat,euw,2019-06-11,Neeko,Kindred,Azir,Sona,Taric,Irelia,Elise,Yasuo,Xayah,Rakan
-Grandmaster,Victory,jp,2019-06-07,Singed,Rammus,Sylas,Ashe,Taric,Quinn,Xin Zhao,Yasuo,Sivir,Zyra
-Grandmaster,Defeat,jp,2019-06-06,Shen,Kindred,Ahri,Kai'Sa,Lulu,Renekton,Sejuani,Morgana,Ezreal,Lee Sin
-Grandmaster,Defeat,jp,2019-06-18,Riven,Zac,Aatrox,Kai'Sa,Morgana,Fiora,Evelynn,Malzahar,Xayah,Thresh
 Challenger,Victory,euw,2019-06-11,Kled,Nunu & Willump,Pyke,Tristana,Nautilus,Irelia,Hecarim,Syndra,Kai'Sa,Shen
-Grandmaster,Victory,jp,2019-06-07,Tahm Kench,Master Yi,Lissandra,Kai'Sa,Veigar,Rumble,Sejuani,Vladimir,Ezreal,Lux
-Grandmaster,Defeat,jp,2019-06-06,Darius,Jarvan IV,Vladimir,Caitlyn,Sona,Irelia,Pantheon,Aatrox,Kai'Sa,Thresh
-Grandmaster,Defeat,jp,2019-06-06,Urgot,Karthus,Twisted Fate,Tristana,Pyke,Irelia,Rengar,Malzahar,Kai'Sa,Nautilus
-Grandmaster,Defeat,jp,2019-06-17,Mordekaiser,Evelynn,Aatrox,Sivir,Rakan,Malphite,Nidalee,Anivia,Jinx,Lux
-Grandmaster,Defeat,jp,2019-06-17,Riven,Karthus,Irelia,Kai'Sa,Braum,Camille,Sejuani,Aatrox,Jhin,Pyke
-Grandmaster,Defeat,jp,2019-06-16,Akali,Nocturne,Malzahar,Ashe,Nautilus,Tryndamere,Hecarim,Aurelion Sol,Caitlyn,Karma
-Grandmaster,Defeat,jp,2019-06-19,Jax,Karthus,Talon,Vayne,Karma,Akali,Sejuani,Zed,Ezreal,Sona
-Grandmaster,Defeat,jp,2019-06-15,Aatrox,Nunu & Willump,Zed,Tristana,Leona,Tryndamere,Amumu,LeBlanc,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-15,Kayle,Jarvan IV,Zed,Kai'Sa,Lulu,Tryndamere,Shaco,Fizz,Tristana,Thresh
-Grandmaster,Defeat,jp,2019-06-16,Riven,Graves,Lissandra,Ezreal,Morgana,Jax,Skarner,Anivia,Kai'Sa,Karma
-Grandmaster,Defeat,jp,2019-06-16,Mordekaiser,Nidalee,Akali,Xayah,Lux,Kled,Xin Zhao,Talon,Ezreal,Janna
-Grandmaster,Defeat,jp,2019-06-19,Camille,Kayn,Diana,Ezreal,Nami,Volibear,Lee Sin,Vladimir,Lucian,Pyke
-Grandmaster,Defeat,jp,2019-06-16,Aatrox,Karthus,Yasuo,Kai'Sa,Leona,Tryndamere,Hecarim,Corki,Ezreal,Karma
-Grandmaster,Victory,jp,2019-06-18,Urgot,Graves,Mordekaiser,Draven,Nautilus,Singed,Hecarim,Viktor,Ashe,Taric
-Grandmaster,Defeat,jp,2019-06-16,Mordekaiser,Karthus,Anivia,Ashe,Lux,Volibear,Lee Sin,Vladimir,Sivir,Leona
-Grandmaster,Defeat,jp,2019-06-17,Sylas,Taliyah,Pyke,Kai'Sa,Zyra,Kayle,Skarner,Yasuo,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-18,Aatrox,Nidalee,LeBlanc,Ezreal,Yuumi,Camille,Amumu,Ziggs,Jinx,Zilean
-Grandmaster,Defeat,jp,2019-06-17,Gangplank,Rek'Sai,Viktor,Vayne,Soraka,Ryze,Graves,Malzahar,Kai'Sa,Yuumi
-Grandmaster,Defeat,jp,2019-06-17,Olaf,Taliyah,Rakan,Jinx,Gangplank,Mordekaiser,Kindred,Malzahar,Lucian,Karma
-Grandmaster,Defeat,jp,2019-06-11,Pantheon,Skarner,Ahri,Ezreal,Lux,Volibear,Sylas,Akali,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-17,Rumble,Elise,Talon,Jinx,Lux,Vladimir,Kha'Zix,Pantheon,Kai'Sa,Thresh
-Grandmaster,Defeat,jp,2019-06-17,Camille,Zac,Ahri,Twitch,Karma,Volibear,Karthus,Vel'Koz,Draven,Lux
-Grandmaster,Defeat,jp,2019-06-11,Tahm Kench,Warwick,Heimerdinger,Kai'Sa,Lux,Irelia,Lee Sin,Viktor,Ezreal,Yuumi
-Grandmaster,Defeat,jp,2019-06-17,Olaf,Kayn,Twisted Fate,Yasuo,Zyra,Gangplank,Jarvan IV,Orianna,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-17,Singed,Jarvan IV,Zilean,Ashe,Karma,Mordekaiser,Sejuani,Ahri,Ezreal,Blitzcrank
-Grandmaster,Defeat,jp,2019-06-11,Vladimir,Rek'Sai,Corki,Ezreal,Blitzcrank,Aatrox,Jarvan IV,Azir,Sivir,Alistar
-Grandmaster,Defeat,jp,2019-06-17,Riven,Lee Sin,Orianna,Vayne,Janna,Gangplank,Master Yi,Twisted Fate,Kai'Sa,Lulu
-Grandmaster,Victory,jp,2019-06-17,Aatrox,Jarvan IV,Graves,Draven,Karma,Irelia,Xin Zhao,Ahri,Sivir,Morgana
-Grandmaster,Defeat,jp,2019-06-11,Neeko,Kayn,Malzahar,Vayne,Yuumi,Irelia,Volibear,Veigar,Xayah,Leona
-Grandmaster,Defeat,jp,2019-06-16,Jax,Elise,Azir,Xayah,Karma,Urgot,Master Yi,Kassadin,Kai'Sa,Nautilus
-Grandmaster,Victory,jp,2019-06-17,Kennen,Vi,Karthus,Sivir,Leona,Ryze,Nocturne,Cho'Gath,Ezreal,Zyra
-Grandmaster,Victory,jp,2019-06-16,Mordekaiser,Kayn,Ahri,Sivir,Yuumi,Yasuo,Karthus,Neeko,Caitlyn,Sona
-Grandmaster,Victory,jp,2019-06-17,Pyke,Twitch,Karthus,Draven,Vel'Koz,Ryze,Master Yi,Heimerdinger,Caitlyn,Morgana
-Grandmaster,Victory,jp,2019-06-17,Ziggs,Kindred,Urgot,Draven,Blitzcrank,Yorick,Twitch,Malzahar,Ezreal,Lux
-Grandmaster,Victory,jp,2019-06-18,Renekton,Nidalee,Ahri,Vayne,Lux,Fiora,Hecarim,Zed,Sivir,Sona
-Grandmaster,Victory,jp,2019-06-18,Ornn,Sejuani,Malzahar,Jhin,Karma,Gragas,Kindred,Sylas,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-18,Jayce,Sejuani,Ahri,Ezreal,Karma,Renekton,Taliyah,Yasuo,Sivir,Zilean
-Grandmaster,Defeat,jp,2019-06-17,Volibear,Xin Zhao,Talon,Ezreal,Janna,Fiora,Rammus,Neeko,Vladimir,Shen
-Grandmaster,Defeat,jp,2019-06-19,Yasuo,Rammus,Orianna,Xayah,Rakan,Gangplank,Elise,Zed,Vayne,Gragas
-Grandmaster,Defeat,jp,2019-06-18,Sejuani,Hecarim,Malzahar,Xayah,Yuumi,Jax,Lee Sin,Vel'Koz,Jhin,Volibear
-Grandmaster,Victory,jp,2019-06-19,Urgot,Xin Zhao,Kassadin,Ashe,Zyra,Irelia,Zac,Twisted Fate,Sivir,Soraka
-Grandmaster,Defeat,jp,2019-06-19,Malphite,Rek'Sai,Nocturne,Vayne,Thresh,Xerath,Jarvan IV,Mordekaiser,Ezreal,Lulu
-Grandmaster,Defeat,jp,2019-06-18,Yorick,Udyr,Lissandra,Cassiopeia,Lux,Mordekaiser,Kindred,Malzahar,Ezreal,Vel'Koz
-Grandmaster,Victory,jp,2019-06-17,Renekton,Karthus,Talon,Sivir,Pyke,Aatrox,Gragas,Ekko,Kai'Sa,Thresh
-Grandmaster,Defeat,jp,2019-06-15,Mordekaiser,Fiddlesticks,Malzahar,Xayah,Blitzcrank,Renekton,Lee Sin,Vel'Koz,Ezreal,Yuumi
-Grandmaster,Defeat,jp,2019-06-16,Vladimir,Vi,LeBlanc,Xayah,Rakan,Ryze,Shaco,Fizz,Sivir,Fiddlesticks
-Grandmaster,Victory,jp,2019-06-17,Aatrox,Kha'Zix,Katarina,Xayah,Bard,Pantheon,Evelynn,Twisted Fate,Sivir,Janna
-Grandmaster,Defeat,jp,2019-06-15,Camille,Sejuani,Akali,Ezreal,Nautilus,Ryze,Nidalee,Aatrox,Kai'Sa,Lux
-Grandmaster,Defeat,jp,2019-06-14,Jax,Graves,Vladimir,Kai'Sa,Morgana,Ornn,Vi,Yasuo,Draven,Lux
-Grandmaster,Defeat,jp,2019-06-16,Tryndamere,Shaco,Fizz,Ezreal,Rakan,Kennen,Zac,Ahri,Yasuo,Nautilus
-Grandmaster,Victory,jp,2019-06-16,Karma,Sejuani,Vel'Koz,Ezreal,Lux,Poppy,Hecarim,Anivia,Kai'Sa,Thresh
-Grandmaster,Defeat,jp,2019-06-16,Kennen,Sejuani,Malzahar,Kai'Sa,Lux,Vladimir,Graves,Ahri,Lucian,Yuumi
-Grandmaster,Defeat,jp,2019-06-15,Ornn,Rammus,Vel'Koz,Sivir,Karma,Gangplank,Kha'Zix,Syndra,Xayah,Lux
-Grandmaster,Victory,jp,2019-06-16,Darius,Lee Sin,Vel'Koz,Varus,Yuumi,Riven,Rammus,Rumble,Caitlyn,Janna
-Grandmaster,Defeat,jp,2019-06-16,Renekton,Evelynn,Sylas,Draven,Braum,Mordekaiser,Graves,Malzahar,Ashe,Vel'Koz
-Grandmaster,Victory,jp,2019-06-16,Jayce,Karthus,Irelia,Xayah,Morgana,Tryndamere,Hecarim,Ryze,Ezreal,Rakan
-Grandmaster,Defeat,jp,2019-06-16,Sejuani,Jarvan IV,Vladimir,Lucian,Nautilus,Nasus,Nidalee,Syndra,Xayah,Lux
-Grandmaster,Victory,jp,2019-06-16,Vladimir,Vi,Akali,Kai'Sa,Lux,Irelia,Graves,Pantheon,Sivir,Pyke
-Grandmaster,Victory,jp,2019-06-16,Kayle,Karthus,Katarina,Sivir,Rakan,Nasus,Fiddlesticks,Twisted Fate,Caitlyn,Ashe
-Grandmaster,Victory,jp,2019-06-16,Vladimir,Jarvan IV,Sylas,Kai'Sa,Rakan,Darius,Nidalee,Camille,Xayah,Blitzcrank
-Grandmaster,Defeat,jp,2019-06-17,Mordekaiser,Jarvan IV,Zed,Lucian,Thresh,Camille,Lee Sin,Anivia,Caitlyn,Galio
-Grandmaster,Defeat,jp,2019-06-14,Shen,Kayn,Kassadin,Vayne,Thresh,Dr. Mundo,Jarvan IV,Vladimir,Ezreal,Karma
-Grandmaster,Victory,jp,2019-06-19,Neeko,Kayn,Aatrox,Draven,Lux,Poppy,Shaco,Rumble,Kai'Sa,Gragas
-Grandmaster,Victory,jp,2019-06-17,Karma,Rek'Sai,Fizz,Ezreal,Sona,Diana,Graves,Mordekaiser,Sivir,Yuumi
-Grandmaster,Victory,jp,2019-06-17,Renekton,Vi,Rumble,Ezreal,Zyra,Aatrox,Kayn,Ryze,Xayah,Karma
-Grandmaster,Defeat,jp,2019-06-13,Darius,Karthus,Anivia,Xayah,Karma,Yorick,Evelynn,LeBlanc,Ezreal,Lux
-Grandmaster,Victory,jp,2019-06-16,Nasus,Karthus,Malzahar,Vayne,Nami,Mordekaiser,Zac,Yasuo,Sivir,Karma
-Grandmaster,Defeat,jp,2019-06-19,Kennen,Rek'Sai,Jayce,Kai'Sa,Nautilus,Kled,Xin Zhao,Nocturne,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-12,Darius,Taliyah,Azir,Kai'Sa,Nautilus,Aatrox,Shaco,Mordekaiser,Ezreal,Morgana
-Grandmaster,Defeat,jp,2019-06-12,Mordekaiser,Lee Sin,Zilean,Draven,Alistar,Camille,Rek'Sai,Cassiopeia,Yasuo,Blitzcrank
-Grandmaster,Defeat,jp,2019-06-12,Mordekaiser,Evelynn,Xerath,Draven,Janna,Aatrox,Hecarim,Cassiopeia,Kai'Sa,Pyke
-Grandmaster,Defeat,jp,2019-06-18,Kled,Evelynn,Yasuo,Ashe,Karma,Gangplank,Kayn,Fizz,Ezreal,Soraka
-Grandmaster,Defeat,jp,2019-06-11,Heimerdinger,Aatrox,Katarina,Ezreal,Morgana,Fiora,Sejuani,Ryze,Draven,Thresh
-Grandmaster,Defeat,jp,2019-06-17,Illaoi,Zac,Rumble,Jinx,Yuumi,Kled,Sejuani,Malzahar,Kai'Sa,Brand
-Grandmaster,Defeat,jp,2019-06-10,Darius,Hecarim,Ryze,Ezreal,Sona,Riven,Elise,Neeko,Yasuo,Thresh
-Grandmaster,Defeat,jp,2019-06-10,Nautilus,Gragas,Yasuo,Xayah,Lux,Aatrox,Kindred,Akali,Sivir,Janna
-Grandmaster,Defeat,jp,2019-06-10,Riven,Xin Zhao,Cassiopeia,Xayah,Rakan,Darius,Elise,Sylas,Kai'Sa,Janna
-Grandmaster,Defeat,jp,2019-06-16,Kled,Lee Sin,Ryze,Caitlyn,Karma,Yasuo,Aatrox,Kassadin,Sivir,Soraka
-Grandmaster,Defeat,jp,2019-06-10,Shen,Elise,Ahri,Kai'Sa,Alistar,Volibear,Hecarim,Katarina,Draven,Thresh
-Grandmaster,Defeat,jp,2019-06-18,Malphite,Kayn,Yasuo,Vayne,Janna,Karma,Evelynn,Graves,Lucian,Nami
-Grandmaster,Defeat,jp,2019-06-14,Aatrox,Warwick,Kled,Lucian,Yuumi,Urgot,Evelynn,Yasuo,Sivir,Lux
-Grandmaster,Defeat,jp,2019-06-14,Tryndamere,Kayn,Ryze,Tristana,Soraka,Karma,Nocturne,LeBlanc,Kai'Sa,Yuumi
-Grandmaster,Defeat,jp,2019-06-14,Fiora,Karthus,Xerath,Ashe,Lux,Jayce,Mordekaiser,Karma,Kai'Sa,Pyke
-Grandmaster,Defeat,jp,2019-06-14,Zed,Mordekaiser,Malzahar,Ezreal,Fiddlesticks,Fiora,Evelynn,Renekton,Xayah,Zyra
-Grandmaster,Defeat,jp,2019-06-13,Shaco,Nidalee,Yasuo,Draven,Nautilus,Singed,Jarvan IV,Katarina,Kai'Sa,Taric
-Grandmaster,Defeat,jp,2019-06-11,Sylas,Lee Sin,Ryze,Caitlyn,Lux,Cho'Gath,Shaco,Katarina,Ashe,Nautilus
-Grandmaster,Defeat,jp,2019-06-09,Gangplank,Jarvan IV,Rumble,Kai'Sa,Bard,Olaf,Evelynn,Yasuo,Xayah,Rakan
-Grandmaster,Victory,jp,2019-06-15,Malphite,Hecarim,Twisted Fate,Ezreal,Karma,Gangplank,Kayn,Karthus,Caitlyn,Pyke
-Grandmaster,Victory,jp,2019-06-14,Aatrox,Sejuani,Rumble,Jinx,Morgana,Irelia,Hecarim,Yasuo,Ezreal,Lux
-Grandmaster,Victory,jp,2019-06-14,Jax,Sejuani,Zed,Ezreal,Lux,Kayle,Xin Zhao,Katarina,Xayah,Karma
-Grandmaster,Victory,jp,2019-06-14,Mordekaiser,Rengar,Talon,Caitlyn,Thresh,Darius,Rammus,Zoe,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-18,Renekton,Amumu,Vladimir,Jinx,Morgana,Pyke,Rek'Sai,Taliyah,Sivir,Braum
-Grandmaster,Defeat,jp,2019-06-18,Karma,Kayn,Sylas,Xayah,Shen,Olaf,Urgot,Kassadin,Kai'Sa,Nami
-Grandmaster,Victory,jp,2019-06-16,Vladimir,Rammus,Anivia,Irelia,Morgana,Pantheon,Elise,Ahri,Draven,Sona
-Grandmaster,Defeat,jp,2019-06-18,Vladimir,Zac,Ahri,Kai'Sa,Pyke,Cho'Gath,Jarvan IV,Azir,Draven,Karma
-Grandmaster,Defeat,jp,2019-06-16,Mordekaiser,Hecarim,Vladimir,Ezreal,Janna,Irelia,Nidalee,Anivia,Caitlyn,Thresh
-Grandmaster,Defeat,jp,2019-06-18,Malphite,Karthus,Cassiopeia,Jinx,Karma,Aatrox,Hecarim,Cho'Gath,Kalista,Lux
-Grandmaster,Defeat,jp,2019-06-17,Lee Sin,Elise,Ahri,Xayah,Blitzcrank,Dr. Mundo,Evelynn,Fizz,Twitch,Pyke
-Grandmaster,Victory,jp,2019-06-16,Irelia,Evelynn,Anivia,Xayah,Yuumi,Tahm Kench,Lee Sin,Malzahar,Lucian,Thresh
-Grandmaster,Victory,jp,2019-06-15,Camille,Kindred,Malzahar,Sona,Taric,Tryndamere,Karthus,Janna,Ezreal,Blitzcrank
-Grandmaster,Defeat,jp,2019-06-18,Jax,Elise,Malzahar,Ashe,Zilean,Camille,Hecarim,Vel'Koz,Ezreal,Lux
-Grandmaster,Defeat,jp,2019-06-17,Mordekaiser,Hecarim,Kassadin,Xayah,Lux,Riven,Kayn,Fizz,Sivir,Zyra
-Grandmaster,Defeat,jp,2019-06-16,Karma,Sejuani,Yasuo,Jhin,Lux,Mordekaiser,Graves,Anivia,Kai'Sa,Yuumi
-Grandmaster,Defeat,jp,2019-06-15,Gangplank,Rek'Sai,Cassiopeia,Sona,Taric,Tahm Kench,Lee Sin,Zed,Tristana,Karma
-Grandmaster,Defeat,jp,2019-06-16,Irelia,Gragas,Kassadin,Kai'Sa,Nami,Neeko,Kayn,Vladimir,Sivir,Rakan
-Grandmaster,Defeat,jp,2019-06-17,Camille,Nunu & Willump,Zed,Kai'Sa,Bard,Neeko,Kayn,Twisted Fate,Caitlyn,Lux
-Grandmaster,Victory,jp,2019-06-15,Orianna,Kha'Zix,Yasuo,Sivir,Lulu,Aatrox,Evelynn,Fizz,Ezreal,Janna
-Grandmaster,Defeat,jp,2019-06-16,Mordekaiser,Pantheon,Kassadin,Xayah,Bard,Talon,Camille,Rumble,Kai'Sa,Rakan
-Grandmaster,Defeat,jp,2019-06-17,Karma,Kindred,Corki,Ezreal,Soraka,Olaf,Amumu,Vel'Koz,Jinx,Fiddlesticks
-Grandmaster,Victory,jp,2019-06-15,Renekton,Evelynn,Malzahar,Xayah,Fiddlesticks,Aatrox,Hecarim,Taliyah,Draven,Pyke
-Grandmaster,Defeat,jp,2019-06-15,Pyke,Shaco,Malphite,Tristana,Blitzcrank,Vayne,Kayn,Fizz,Kai'Sa,Rakan
-Grandmaster,Defeat,jp,2019-06-15,Jax,Evelynn,Aatrox,Ezreal,Thresh,Sylas,Kindred,Malzahar,Kalista,Camille
-Grandmaster,Victory,jp,2019-06-07,Ryze,Hecarim,LeBlanc,Kai'Sa,Lux,Camille,Sylas,Twisted Fate,Sivir,Soraka
-Grandmaster,Defeat,jp,2019-06-15,Jax,Ekko,Akali,Twitch,Lux,Fiora,Shaco,Fizz,Kai'Sa,Xerath
-Grandmaster,Defeat,jp,2019-06-07,Twisted Fate,Kayn,Vladimir,Ezreal,Rakan,Pantheon,Xin Zhao,Yasuo,Twitch,Yuumi
-Grandmaster,Defeat,jp,2019-06-12,Vladimir,Jarvan IV,Kassadin,Kai'Sa,Thresh,Ryze,Shaco,Twisted Fate,Lucian,Nautilus
-Grandmaster,Defeat,jp,2019-06-12,Darius,Shaco,Fizz,Ezreal,Lux,Aatrox,Hecarim,Cassiopeia,Sivir,Alistar
-Grandmaster,Defeat,jp,2019-06-12,Fiora,Sejuani,Neeko,Caitlyn,Lux,Pyke,Zac,Malzahar,Kai'Sa,Leona
-Grandmaster,Defeat,jp,2019-06-12,Aatrox,Shaco,Ryze,Sivir,Lux,Tahm Kench,Jarvan IV,Karma,Kai'Sa,Bard
-Grandmaster,Victory,jp,2019-06-11,Malzahar,Lee Sin,Ryze,Kai'Sa,Yuumi,Aatrox,Taliyah,Irelia,Lucian,Pyke
-Grandmaster,Defeat,jp,2019-06-11,Kled,Evelynn,Corki,Ezreal,Bard,Rumble,Xin Zhao,Zed,Kai'Sa,Lux
-Grandmaster,Victory,jp,2019-06-14,Akali,Jarvan IV,Orianna,Caitlyn,Morgana,Irelia,Taliyah,Malzahar,Sivir,Thresh
-Grandmaster,Victory,jp,2019-06-18,Camille,Taliyah,Aurelion Sol,Kai'Sa,Nautilus,Fiora,Kayn,Kassadin,Varus,Karma
-Grandmaster,Defeat,jp,2019-06-18,Mordekaiser,Karthus,Talon,Vayne,Soraka,Darius,Lee Sin,Ekko,Ashe,Lux
-Grandmaster,Defeat,jp,2019-06-17,Riven,Ekko,Heimerdinger,Kai'Sa,Thresh,Poppy,Hecarim,Zed,Jhin,Karma
-Grandmaster,Defeat,jp,2019-06-17,Cho'Gath,Nidalee,Anivia,Xayah,Lux,Rumble,Sejuani,Talon,Ezreal,Karma
-Grandmaster,Defeat,jp,2019-06-17,Renekton,Sejuani,Mordekaiser,Kai'Sa,Rakan,Kled,Gragas,Yasuo,Vayne,Lux
-Grandmaster,Victory,jp,2019-06-17,Darius,Vi,Syndra,Jhin,Yuumi,Mordekaiser,Karthus,Corki,Ezreal,Janna
-Grandmaster,Defeat,jp,2019-06-17,Kayle,Graves,Ahri,Kai'Sa,Soraka,Aatrox,Kayn,Talon,Xayah,Rakan
-Grandmaster,Defeat,jp,2019-06-17,Kayle,Sejuani,Lissandra,Ezreal,Soraka,Camille,Kayn,Ahri,Kai'Sa,Lux
-Grandmaster,Defeat,jp,2019-06-17,Kled,Taliyah,Vladimir,Jinx,Karma,Swain,Lee Sin,Orianna,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-16,Aatrox,Pantheon,Vladimir,Vayne,Janna,Malphite,Karthus,Zed,Yasuo,Sona
-Grandmaster,Defeat,jp,2019-06-16,Fiora,Elise,Kassadin,Xayah,Fiddlesticks,Poppy,Graves,Vladimir,Vayne,Lux
-Grandmaster,Defeat,jp,2019-06-16,Sion,Xin Zhao,Malzahar,Vayne,Nautilus,Gangplank,Warwick,Veigar,Lucian,Braum
-Grandmaster,Defeat,jp,2019-06-15,Aatrox,Olaf,Ahri,Ezreal,Karma,Irelia,Graves,Viktor,Sivir,Rakan
-Grandmaster,Defeat,jp,2019-06-15,Sejuani,Warwick,Ziggs,Ezreal,Thresh,Aatrox,Olaf,Katarina,Kai'Sa,Karma
-Grandmaster,Defeat,jp,2019-06-19,Neeko,Evelynn,Ahri,Jhin,Leona,Rumble,Shaco,Fizz,Xayah,Sona
-Grandmaster,Defeat,jp,2019-06-19,Gangplank,Graves,Lissandra,Sivir,Fiddlesticks,Nocturne,Rek'Sai,Ryze,Jhin,Karma
-Grandmaster,Defeat,jp,2019-06-14,Malphite,Camille,Ahri,Sivir,Zyra,Nasus,Hecarim,Malzahar,Kai'Sa,Yuumi
-Grandmaster,Defeat,jp,2019-06-19,Sylas,Elise,Zed,Sivir,Pyke,Neeko,Fiddlesticks,Rumble,Caitlyn,Yuumi
 Challenger,Defeat,jp,2019-06-17,Volibear,Hecarim,Akali,Vayne,Soraka,Renekton,Poppy,Yasuo,Ezreal,Karma
-Grandmaster,Defeat,jp,2019-06-19,Irelia,Elise,Rumble,Kai'Sa,Pyke,Neeko,Nunu & Willump,Zed,Sivir,Yuumi
-Grandmaster,Defeat,jp,2019-06-13,Garen,Evelynn,Sylas,Kai'Sa,Lux,Camille,Karthus,Aurelion Sol,Sivir,Zyra
-Grandmaster,Defeat,jp,2019-06-18,Amumu,Vi,Sivir,Ezreal,Zyra,Karma,Master Yi,Ahri,Vayne,Lux
-Grandmaster,Defeat,jp,2019-06-18,Kassadin,Sejuani,Ryze,Draven,Thresh,Irelia,Master Yi,Yasuo,Vladimir,Nami
-Grandmaster,Victory,jp,2019-06-16,Irelia,Ryze,Mordekaiser,Kai'Sa,Nautilus,Riven,Xin Zhao,Katarina,Draven,Pyke
-Grandmaster,Defeat,jp,2019-06-18,Darius,Jarvan IV,Yasuo,Cassiopeia,Thresh,Sejuani,Kha'Zix,Camille,Caitlyn,Karma
-Grandmaster,Defeat,jp,2019-06-18,Renekton,Jarvan IV,Ekko,Sivir,Taric,Fiora,Vi,Viktor,Ezreal,Zyra
-Grandmaster,Defeat,jp,2019-06-14,Camille,Ekko,Syndra,Draven,Thresh,Tryndamere,Lee Sin,Cassiopeia,Caitlyn,Leona
-Grandmaster,Defeat,jp,2019-06-18,Camille,Evelynn,Vladimir,Sivir,Zyra,Cho'Gath,Graves,Azir,Kai'Sa,Rakan
-Grandmaster,Victory,jp,2019-06-14,Mordekaiser,Olaf,Sylas,Caitlyn,Blitzcrank,Renekton,Hecarim,LeBlanc,Xayah,Taric
-Grandmaster,Defeat,jp,2019-06-19,Gangplank,Hecarim,Aurelion Sol,Ezreal,Janna,Karma,Gragas,Talon,Lucian,Nami
 Challenger,Defeat,jp,2019-06-18,Riven,Rek'Sai,Ahri,Kai'Sa,Gragas,Aatrox,Rammus,Vladimir,Ezreal,Bard
-Grandmaster,Defeat,jp,2019-06-18,Tahm Kench,Nidalee,Irelia,Xayah,Lux,Vayne,Zac,Talon,Kai'Sa,Karma
-Grandmaster,Victory,jp,2019-06-18,Neeko,Xin Zhao,Akali,Ezreal,Lux,Renekton,Jarvan IV,Syndra,Sivir,Karma
-Grandmaster,Defeat,jp,2019-06-17,Aatrox,Vi,Ahri,Kai'Sa,Pyke,Karma,Lee Sin,Talon,Ezreal,Thresh
 Challenger,Defeat,jp,2019-06-19,Vladimir,Hecarim,Ekko,Ezreal,Yuumi,Camille,Sejuani,Twisted Fate,Sivir,Fiddlesticks
-Grandmaster,Victory,jp,2019-06-13,Anivia,Evelynn,Talon,Cassiopeia,Pyke,Darius,Nidalee,Renekton,Ezreal,Lux
 Challenger,Victory,jp,2019-06-18,Camille,Sejuani,Katarina,Xayah,Lux,Fiora,Aatrox,Irelia,Kai'Sa,Morgana
 Challenger,Victory,jp,2019-06-18,Camille,Skarner,Kassadin,Ezreal,Yuumi,Neeko,Xin Zhao,Taliyah,Miss Fortune,Blitzcrank
 Challenger,Victory,jp,2019-06-18,Irelia,Evelynn,Katarina,Xayah,Lux,Illaoi,Shaco,Ryze,Jhin,Galio
