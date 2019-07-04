@@ -31,5 +31,21 @@ def get_lane_adv(games, character, role):
     top_ten_adv = top_ten_adv[:10]
     return top_ten_adv
 
+def get_winrate(games, character, role):
+    '''
+    given a character and a lane get the winrate
+
+    :param games: dataframe with all games
+    :param character: character played
+    :param role: lane in which the character was played
+    '''
+    games_played = (games[games["{}_1".format(role)] == character].shape[0] +
+                    games[games["{}_2".format(role)] == character].shape[0])
+    games_won = (len(games[(games["{}_1".format(role)] == character)
+                           & (games["result"] == "Victory")]) +
+                 len(games[(games["{}_2".format(role)] == character)
+                           & (games["result"] == "Defeat")]))
+    return games_won/games_played
+
 if __name__ == "__main__":
     pass

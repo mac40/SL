@@ -27,15 +27,17 @@ def basic_parser():
     games = cfu.remove_rows(games, 'mmr', 'Grandmaster')
 
     # save reformatted database
-    cfu.save_games(games, "parsed_games.csv")
+    cfu.save_games(games, "./datasets/parsed_games.csv")
 
 
 if __name__ == "__main__":
 
     basic_parser()
 
-    GAMES = cfu.get_games('parsed_games.csv')
+    GAMES = cfu.get_games("./datasets/parsed_games.csv")
 
-    TOP_TOP = du.get_top_ten(GAMES, 'top')
-    for val in TOP_TOP:
-        print(du.get_lane_adv(GAMES, val, 'top'))
+    print(du.get_top_ten(GAMES, 'top'))
+
+    print(du.get_lane_adv(GAMES, 'Aatrox', 'top'))
+
+    print(du.get_winrate(GAMES, 'Gangplank', 'top'))
