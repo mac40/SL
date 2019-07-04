@@ -62,6 +62,16 @@ def change_date_format(games):
     games["timestamp"] = pd.to_datetime(games["timestamp"])
     return games
 
+def remove_rows(games, column, value):
+    """
+    remove rows which has the defined value from the column
+
+    :param games: dataframe with games
+    :param column: dataframe column
+    :param value: value in column
+    """
+    games = games[games[column] != value]
+    return games
 
 if __name__ == "__main__":
     pass

@@ -18,5 +18,8 @@ if __name__ == "__main__":
     # reformat dates
     GAMES = cfu.change_date_format(GAMES)
 
+    # remove grandmaster games
+    GAMES = cfu.remove_rows(GAMES, 'mmr', 'Grandmaster')
+
     # save reformatted database
     cfu.save_games(GAMES, "parsed_games.csv")
