@@ -2,24 +2,36 @@
 Main project file
 '''
 
+# import pandas as pd
+
 import csv_format_utilities as cfu
 
 
-if __name__ == "__main__":
+def basic_parser():
+    '''
+    basic parsing of scraped games
+    '''
     # import games from games.csv
-    GAMES = cfu.get_games('lolgames/games.csv')
+    games = cfu.get_games('lolgames/games.csv')
 
     # clear games from duplicates
-    GAMES = cfu.duplicates_handler(GAMES)
+    games = cfu.duplicates_handler(games)
 
     # reformat teams
-    GAMES = cfu.teams_to_list(GAMES)
+    games = cfu.teams_to_list(games)
 
     # reformat dates
-    GAMES = cfu.change_date_format(GAMES)
+    games = cfu.change_date_format(games)
 
     # remove grandmaster games
-    GAMES = cfu.remove_rows(GAMES, 'mmr', 'Grandmaster')
+    games = cfu.remove_rows(games, 'mmr', 'Grandmaster')
 
     # save reformatted database
-    cfu.save_games(GAMES, "parsed_games.csv")
+    cfu.save_games(games, "parsed_games.csv")
+
+
+if __name__ == "__main__":
+
+    basic_parser()
+
+    GAMES = cfu.get_games('parsed_games.csv')
