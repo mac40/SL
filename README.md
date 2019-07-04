@@ -12,7 +12,7 @@ The project consist of three steps:
 
 * [x] Gather The Data
   * [x] Clean Duplicates
-  * [ ] Filter the dataframe
+  * [x] Filter the dataframe
   * [ ] Create interesting subsets
 * [ ] Explore the Data
   * [ ] Team Composition
