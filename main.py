@@ -5,7 +5,7 @@ Main project file
 # import pandas as pd
 
 import csv_format_utilities as cfu
-
+import dataset_utilites as du
 
 def basic_parser():
     '''
@@ -35,3 +35,7 @@ if __name__ == "__main__":
     basic_parser()
 
     GAMES = cfu.get_games('parsed_games.csv')
+
+    TOP_TOP = du.get_top_ten(GAMES, 'top')
+    for val in TOP_TOP:
+        print(du.get_lane_adv(GAMES, val, 'top'))
