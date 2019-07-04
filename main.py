@@ -2,10 +2,13 @@
 Main project file
 '''
 
-# import pandas as pd
+import sys
+
+import pandas as pd
 
 import csv_format_utilities as cfu
 import dataset_utilites as du
+
 
 def basic_parser():
     '''
@@ -30,14 +33,50 @@ def basic_parser():
     cfu.save_games(games, "./datasets/parsed_games.csv")
 
 
+def role_winrate_playrate(role):
+    '''
+    create a dataset with the winrate and the playrate vs the most frequent
+    adversaries of the most played characters in the given role
+
+    :param role: the role we want the dataset to focus on
+    '''
+    # retrieve parsed games
+    games = cfu.get_games('./datasets/parsed_games.csv')
+
+    # get the top ten characters for the lane
+    top_played_char = du.get_top_ten(games, role)
+
+    # get top chars info for the role
+    win_vs_pr = pd.DataFrame()
+    wr_ = []
+    for char in top_played_char:
+        # get lane adv of top played champions
+        win_vs_pr = win_vs_pr.append(du.get_lane_adv(games, char, role))
+    win_vs_pr = win_vs_pr.fillna(0)
+    win_vs_pr = win_vs_pr.transpose()
+
+    # get top adversaries winrate
+    for char in win_vs_pr.index.values:
+        wr_.append(du.get_winrate(games, char, role))
+    win_vs_pr['Win_rate'] = wr_
+
+    cfu.save_dataset(win_vs_pr, './datasets/{}_winrate_playrate.csv'.format(role))
+
+
 if __name__ == "__main__":
 
-    basic_parser()
+    try:
+        if sys.argv[1] == "Parse":
+            print("Executing basic_parser...")
+            basic_parser()
+        else:
+            print("Command not recognized")
+            print("Doing nothing...")
+    except IndexError:
+        pass
 
-    GAMES = cfu.get_games("./datasets/parsed_games.csv")
-
-    print(du.get_top_ten(GAMES, 'top'))
-
-    print(du.get_lane_adv(GAMES, 'Aatrox', 'top'))
-
-    print(du.get_winrate(GAMES, 'Gangplank', 'top'))
+    role_winrate_playrate('top')
+    role_winrate_playrate('jung')
+    role_winrate_playrate('mid')
+    role_winrate_playrate('adc')
+    role_winrate_playrate('supp')

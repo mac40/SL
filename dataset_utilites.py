@@ -29,7 +29,7 @@ def get_lane_adv(games, character, role):
                                 games[games["{}_2".format(role)] == character].shape[0])
                   ).sort_values(ascending=False)
     top_ten_adv = top_ten_adv[:10]
-    return top_ten_adv
+    return top_ten_adv.rename(character)
 
 def get_winrate(games, character, role):
     '''
