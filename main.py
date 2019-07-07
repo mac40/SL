@@ -133,19 +133,24 @@ def train_test():
     '''
     games = cfu.get_games('./datasets/stats.csv')
 
-    train = pd.DataFrame()
+    train = pd.DataFrame(columns=[
+        'damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
 
     victory = 0
     defeat = 0
     for game in games.iterrows():
+        row = pd.Series(data=[game[1]['damage_1'], game[1]['tank_1'], game[1]['range_1'],
+                              game[1]['damage_2'], game[1]['tank_2'], game[1]['range_2'], game[1]['result']], index=[
+                                  'damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
         if game[1]['result'] == 'Victory' and victory < 500:
-            train.append(game[1])
             victory += 1
+            train = train.append(row, ignore_index=True)
         if game[1]['result'] == 'Defeat' and defeat < 500:
-            train.append(game[1])
             defeat += 1
+            train = train.append(row, ignore_index=True)
         if victory == 500 and defeat == 500:
             break
+    print(train)
     cfu.save_games(train, './datasets/train.csv')
 
 
