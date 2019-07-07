@@ -9,6 +9,7 @@ import pandas as pd
 import csv_format_utilities as cfu
 import dataset_utilites as du
 
+from constants import DAMAGE, TANK, RANGED
 
 def basic_parser():
     '''
@@ -58,7 +59,7 @@ def role_winrate_vs(role):
     for char in win_vs.index.values:
         for adv in win_vs.columns.values:
             win_vs[adv][char] = du.get_winrate_vs(games, char, role, adv)
-    cfu.save_dataset(win_vs, './datasets/{}_winrate_vs.csv'.format(role))
+    cfu.save_dataset(win_vs, './datasets/winrate/{}_winrate_vs.csv'.format(role))
 
 
 def jungle_influence(char, role):
@@ -94,6 +95,37 @@ def jungle_influence(char, role):
         jung_inf_merged, './datasets/jung_inf/{}/{}_jung_inf.csv'.format(role, char))
 
 
+def stat_dataset():
+    '''
+    generic statistics dataset
+    '''
+
+    games = cfu.get_games('./datasets/parsed_games.csv')
+
+    dataset = pd.DataFrame(columns=['damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
+
+    for game in games.iterrows():
+        row = pd.Series([0, 0, 0, 0, 0, 0, 'Victory'], index=[
+                        'damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
+        for role in ['top', 'jung', 'mid', 'adc', 'supp']:
+            if DAMAGE[game[1]['{}_1'.format(role)]] == 'AD':
+                row['damage_1'] += 1
+            if TANK[game[1]['{}_1'.format(role)]] == 'YES':
+                row['tank_1'] += 1
+            if RANGED[game[1]['{}_1'.format(role)]] == 'YES':
+                row['range_1'] += 1
+            if DAMAGE[game[1]['{}_2'.format(role)]] == 'AD':
+                row['damage_2'] += 1
+            if TANK[game[1]['{}_2'.format(role)]] == 'YES':
+                row['tank_2'] += 1
+            if RANGED[game[1]['{}_2'.format(role)]] == 'YES':
+                row['range_2'] += 1
+        for index in ['damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2']:
+            row[index] = row[index]/5
+        row['result'] = game[1]['result']
+        dataset = dataset.append(row, ignore_index=True)
+    cfu.save_games(dataset, './datasets/stats.csv')
+
 if __name__ == "__main__":
 
     try:
@@ -109,9 +141,12 @@ if __name__ == "__main__":
     for ROLE in ['top', 'jung', 'mid', 'adc', 'supp']:
         role_winrate_vs(ROLE)
 
-    GAMES = cfu.get_games('./datasets/parsed_games.csv')
+    # GAMES = cfu.get_games('./datasets/parsed_games.csv')
 
-    for ROLE in ['top', 'mid', 'adc', 'supp']:
-        top_char = du.get_top_ten(GAMES, ROLE)
-        for CHAR in top_char:
-            jungle_influence(CHAR, ROLE)
+    # for ROLE in ['top', 'mid', 'adc', 'supp']:
+    #     top_char = du.get_top_ten(GAMES, ROLE)
+    #     for CHAR in top_char:
+    #         jungle_influence(CHAR, ROLE)
+
+
+    stat_dataset()
