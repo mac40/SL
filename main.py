@@ -102,7 +102,8 @@ def stat_dataset():
 
     games = cfu.get_games('./datasets/parsed_games.csv')
 
-    dataset = pd.DataFrame(columns=['damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
+    dataset = pd.DataFrame(columns=[
+        'damage_1', 'tank_1', 'range_1', 'damage_2', 'tank_2', 'range_2', 'result'])
 
     for game in games.iterrows():
         row = pd.Series([0, 0, 0, 0, 0, 0, 'Victory'], index=[
@@ -125,6 +126,28 @@ def stat_dataset():
         row['result'] = game[1]['result']
         dataset = dataset.append(row, ignore_index=True)
     cfu.save_games(dataset, './datasets/stats.csv')
+
+def train_test():
+    '''
+    create train and test datasets
+    '''
+    games = cfu.get_games('./datasets/stats.csv')
+
+    train = pd.DataFrame()
+
+    victory = 0
+    defeat = 0
+    for game in games.iterrows():
+        if game[1]['result'] == 'Victory' and victory < 500:
+            train.append(game[1])
+            victory += 1
+        if game[1]['result'] == 'Defeat' and defeat < 500:
+            train.append(game[1])
+            defeat += 1
+        if victory == 500 and defeat == 500:
+            break
+    cfu.save_games(train, './datasets/train.csv')
+
 
 if __name__ == "__main__":
 
@@ -149,4 +172,6 @@ if __name__ == "__main__":
     #         jungle_influence(CHAR, ROLE)
 
 
-    stat_dataset()
+    # stat_dataset()
+
+    train_test()
