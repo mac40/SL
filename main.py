@@ -33,7 +33,7 @@ def basic_parser():
     cfu.save_games(games, "./datasets/parsed_games.csv")
 
 
-def role_winrate_playrate(role):
+def role_winrate_vs(role):
     '''
     create a dataset with the winrate and the playrate vs the most frequent
     adversaries of the most played characters in the given role
@@ -57,10 +57,9 @@ def role_winrate_playrate(role):
 
     # get top adversaries winrate
     for char in win_vs_pr.index.values:
-        wr_.append(du.get_winrate(games, char, role))
-    win_vs_pr['Win_rate'] = wr_
-
-    cfu.save_dataset(win_vs_pr, './datasets/{}_winrate_playrate.csv'.format(role))
+        for adv in win_vs_pr.columns.values:
+            win_vs_pr[adv][char] = du.get_winrate_vs(games, char, role, adv)
+    cfu.save_dataset(win_vs_pr, './datasets/{}_winrate_vs.csv'.format(role))
 
 
 if __name__ == "__main__":
@@ -75,8 +74,8 @@ if __name__ == "__main__":
     except IndexError:
         pass
 
-    role_winrate_playrate('top')
-    role_winrate_playrate('jung')
-    role_winrate_playrate('mid')
-    role_winrate_playrate('adc')
-    role_winrate_playrate('supp')
+    role_winrate_vs('top')
+    role_winrate_vs('jung')
+    role_winrate_vs('mid')
+    role_winrate_vs('adc')
+    role_winrate_vs('supp')

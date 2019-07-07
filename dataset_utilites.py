@@ -47,5 +47,30 @@ def get_winrate(games, character, role):
                            & (games["result"] == "Defeat")]))
     return games_won/games_played
 
+def get_winrate_vs(games, character, role, adv):
+    '''
+    given a character a lane and an adversary get the winrate
+
+    :param games: dataframe with all games
+    :param character: character played
+    :param role: lane in which the character was played
+    :param adv: lane adversary
+    '''
+    games_played = (games[(games["{}_1".format(role)] == character)
+                          & (games["{}_2".format(role)] == adv)].shape[0] +
+                    games[(games["{}_2".format(role)] == character)
+                          & (games["{}_1".format(role)] == adv)].shape[0])
+    games_won = (len(games[(games["{}_1".format(role)] == character)
+                           & (games["result"] == "Victory")
+                           & (games["{}_2".format(role)] == adv)]) +
+                 len(games[(games["{}_2".format(role)] == character)
+                           & (games["result"] == "Defeat")
+                           & (games["{}_1".format(role)] == adv)]))
+    if games_played == 0:
+        return games_played
+    else:
+        return games_won/games_played
+
+
 if __name__ == "__main__":
     pass
