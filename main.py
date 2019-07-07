@@ -90,8 +90,8 @@ def jungle_influence(char, role):
     jung_inf_merged = pd.concat([jung_inf_1, jung_inf_2], ignore_index=True)
     jung_inf_merged['result'] = jung_inf_merged['result'].apply(
         lambda x: 1 if x == 'Victory' else 0)
-    cfu.save_dataset(
-        jung_inf_merged, './datasets/{}_{}_jung_inf.csv'.format(char, role))
+    cfu.save_games(
+        jung_inf_merged, './datasets/jung_inf/{}/{}_jung_inf.csv'.format(role, char))
 
 
 if __name__ == "__main__":
@@ -106,12 +106,12 @@ if __name__ == "__main__":
     except IndexError:
         pass
 
-    for role in ['top', 'jung', 'mid', 'adc', 'supp']:
-        role_winrate_vs(role)
+    for ROLE in ['top', 'jung', 'mid', 'adc', 'supp']:
+        role_winrate_vs(ROLE)
 
     GAMES = cfu.get_games('./datasets/parsed_games.csv')
 
-    for role in ['top', 'mid', 'adc', 'supp']:
-        top_char = du.get_top_ten(GAMES, role)
-        for char in top_char:
-            jungle_influence(char, role)
+    for ROLE in ['top', 'mid', 'adc', 'supp']:
+        top_char = du.get_top_ten(GAMES, ROLE)
+        for CHAR in top_char:
+            jungle_influence(CHAR, ROLE)
