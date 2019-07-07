@@ -48,7 +48,6 @@ def role_winrate_vs(role):
 
     # get top chars info for the role
     win_vs_pr = pd.DataFrame()
-    wr_ = []
     for char in top_played_char:
         # get lane adv of top played champions
         win_vs_pr = win_vs_pr.append(du.get_lane_adv(games, char, role))
