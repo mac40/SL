@@ -18641,7 +18641,7 @@ zwAAAABJRU5ErkJggg=="
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[70]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="nf">set.seed</span><span class="p">(</span><span class="m">123</span><span class="p">)</span>
@@ -20515,6 +20515,38 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-r"><pre><span></span><span class="nf">mean</span><span class="p">(</span><span class="n">lm.out.poly</span><span class="o">$</span><span class="n">residuals^2</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+
+<div class="output_html rendered_html output_subarea ">
+0.311383268025117
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
 <div class="prompt input_prompt">In&nbsp;[102]:</div>
 <div class="inner_cell">
     <div class="input_area">
@@ -20581,7 +20613,7 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[103]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="n">x</span> <span class="o">&lt;-</span> <span class="nf">model.matrix</span><span class="p">(</span><span class="n">price</span><span class="o">~</span><span class="n">year</span><span class="o">+</span><span class="n">manufacturer</span><span class="o">+</span><span class="n">condition</span><span class="o">+</span><span class="n">cylinders</span><span class="o">+</span><span class="n">fuel</span><span class="o">+</span><span class="n">odometer</span><span class="o">+</span><span class="n">title_status</span><span class="o">+</span><span class="n">transmission</span><span class="o">+</span><span class="n">drive</span><span class="o">+</span><span class="n">type</span><span class="o">+</span><span class="n">paint_color</span><span class="p">,</span> <span class="n">Cars.temp</span><span class="p">)</span><span class="n">[</span><span class="p">,</span><span class="m">-1</span><span class="n">]</span>
@@ -20597,7 +20629,7 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[104]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="nf">set.seed</span><span class="p">(</span><span class="m">489</span><span class="p">)</span>
@@ -20620,7 +20652,7 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[105]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="n">ridge.mod</span> <span class="o">&lt;-</span> <span class="nf">glmnet</span><span class="p">(</span><span class="n">x[train</span><span class="p">,</span><span class="n">]</span><span class="p">,</span> <span class="n">y[train]</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="m">0</span><span class="p">)</span>
@@ -20653,7 +20685,7 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div>
 </div>
 
-</div></section></section><section><section>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[106]:</div>
@@ -20732,7 +20764,7 @@ CDByEWDkIsDIRYCRiwAjFwFGrv8BbqCSrsjwW9kAAAAASUVORK5CYII="
 </div>
 </div>
 
-</div></section></section><section><section>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[108]:</div>
